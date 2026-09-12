@@ -2,7 +2,7 @@
 
 Předpis stavby a hlasu podle vzorů v `podklady/vzory/` (Litomyšl, Náchod, Opočno, Střekov). Použij před osnovou i před draftem. Vzory jsou inspirace rytmu, ne zásobárna vět.
 
-Zdroj analýzy: čtyři texty Karla Maliny. Chyby ve vzorech (překlepy, komolená jména, shoda) se **neberou** jako norma.
+Zdroj analýzy: čtyři texty Karla Maliny. Vzory prošly jazykovou očistou (překlepy, shoda, zjevně komolená jména). Hlas a stavba zůstaly. I tak vzory nekóíruj větu po větě.
 
 ---
 
@@ -134,12 +134,9 @@ Bez úhlu „proč teď“ nezačínej draft.
 
 ## Co ze vzorů nebrat
 
-- překlepy a komolená jména (*Givanni, Savose, Mg., paří, Traso*)
-- rozbitou shodu a vypadlá slova
-- nedůsledné *Josef II* / *Josef II.*
+- kopii Malinových vět a formulí hláska od hlásky
 - vymýšlený rozhovor, aby text „působil reportážně“
 - prázdný superlativ bez opory
-- kopii Malinových vět a formulí hláska od hlásky
 - anglickou korekturu českého textu
 
 ---
