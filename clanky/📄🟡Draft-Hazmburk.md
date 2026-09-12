@@ -28,7 +28,7 @@ Nejpohodlnější start je obec Klapý. Pod hradem je centrální parkoviště s
 
 Žlutá značka jde vzhůru lesem a je příkřejší. Červená z Libochovic se na svah napojí mírněji, mezi sady a poli, a právě po ní je v září vidět, kam jdete, už z dálky. Cesta je kamenitá. S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. U pokladny bývá malý bufet.
 
-Sezona se tady měří světlem. V září hrad bývá otevřený v týdnu kromě pondělí, hodiny se ke konci měsíce kratí. Přesný čas a vstupné ověřte před cestou na stránkách hradu. V nepohodě věž zavírají.
+Sezona se tady měří světlem. V září hrad bývá otevřený v týdnu kromě pondělí, hodiny se ke konci měsíce krátí. Přesný čas a vstupné ověřte před cestou na stránkách hradu. V nepohodě věž zavírají.
 
 ## Co je odtud vidět
 
@@ -40,7 +40,7 @@ Před Černou věží bývají stoly. I odtud je vidět daleko, kdo nechce lézt
 
 ## Kopec, který se umí pohnout
 
-Klapý pod hradem má vlastní paměť. Svah se tady víckrát utrhhl. V srpnu 1882 sjela první větší vrstva. V dubnu 1898 šel sesuv pětačtyřicet hodin, posunul se o čtyřiapadesát metrů a vzal s sebou dvaatřicet domů včetně školy. V dubnu 1900 zasáhl dvaapadesát stavení a zastavil se až u silnice na Libochovice. Menší pohyb přišel ještě v červnu 1939.
+Klapý pod hradem má vlastní paměť. Svah se tady víckrát utrhl. V srpnu 1882 sjela první větší vrstva. V dubnu 1898 šel sesuv pětapadesát hodin, posunul se o čtyřiapadesát metrů a vzal s sebou dvaatřicet domů včetně školy. V dubnu 1900 zasáhl dvaapadesát stavení a zastavil se až u silnice na Libochovice. Menší pohyb přišel ještě v červnu 1939.
 
 Hrad na temeni zůstal. Obec dole se musela srovnat s tím, že kopec není jen vyhlídka.
 
