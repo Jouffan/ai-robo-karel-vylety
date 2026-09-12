@@ -2,7 +2,7 @@
 
 Předpis stavby a hlasu podle vzorů v `podklady/vzory/` (Litomyšl, Náchod, Opočno, Střekov). Použij před osnovou i před draftem. Vzory jsou inspirace rytmu, ne zásobárna vět.
 
-Zdroj analýzy: čtyři texty Karla Maliny. Vzory prošly jazykovou očistou (překlepy, shoda, zjevně komolená jména). Hlas a stavba zůstaly. I tak vzory nekóíruj větu po větě.
+Zdroj analýzy: čtyři texty Karla Maliny. Vzory prošly jazykovou očistou (překlepy, shoda, zjevně komolená jména). Hlas a stavba zůstaly. I tak vzory nekopíruj větu po větě.
 
 ---
 
