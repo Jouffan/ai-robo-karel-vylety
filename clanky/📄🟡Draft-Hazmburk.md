@@ -42,4 +42,4 @@ Cestou dolů má obec pod hradem jiný význam. Klapý není jen parkoviště. S
 
 Hrad na temeni zůstal. Obec dole zjistila, že kopec není jen vyhlídka.
 
-K parkovišti je to rychlejší než nahoru. Značka zase bere les, ne jižní sáz. Dvě věže máte nejdřív nad sebou, potom zase na obzoru. Z Klapého vypadají jako ráno. Jen víte, co je z nich vidět.
+K parkovišti je to rychlejší než nahoru. Značka zase bere les, ne jižní sráz. Dvě věže máte nejdřív nad sebou, potom zase na obzoru. Z Klapého vypadají jako ráno. Jen víte, co je z nich vidět.
