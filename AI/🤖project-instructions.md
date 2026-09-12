@@ -23,10 +23,10 @@ Canon žije na GitHubu `Jouffan/ai-robo-karel-vylety`, větev `main`. Sandbox, c
 | `AI/🤖BOOTLOADER.md` | Start sezení, umístění projektu, základní konvence názvů |
 | `AI/🤖Grok-Git-Workflow-generic.md` | Větve, push, ověření, emoji v cestách |
 | `AI/🤖project-instructions.md` | Tento soubor — fáze práce na článku |
-| `AI/skills/` | Samostatné skilly |
-| `AI/skills/🤖clanek-vylet.md` | Tvar a hlas výletového článku podle vzorů |
+| `AI/skills/🤖clanek-vylet.md` | Stavba a hlas výletového článku (podle vzorů) |
+| `AI/skills/` | Další skilly |
 | `📄…` | Produktový článek |
-| `📜…` / `podklady/vzory/` | Vzorový starší článek (inspirace, ne kopie) |
+| `podklady/vzory/` | Vzorové starší články (inspirace, ne kopie) |
 | `📝…` | Poznámka, rešerše, rozpracovaný text |
 
 Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovskou složku a cestu zkopíruj přesně.
@@ -36,13 +36,15 @@ Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovs
 ## 3. Jazyk, hlas, čtenář
 
 - Cílový jazyk článku: **spisovná čeština**, živá, čitelná, bez kalků z angličtiny.
-- Hlas výletového článku: viz `AI/skills/🤖clanek-vylet.md`.
+- Hlas: zvídavý průvodce, ne reklamní leták a ne encyklopedické heslo.
 - Čtenář: dospělý zájemce o výlety a místa; očekává konkrétní informace a atmosféru.
 - Vykej, pokud zadání neurčí jinak.
 - Čísla, míry, časy a názvy míst uváděj česky a ověřeně (`15 km`, `v 9.30`, `nádraží Praha hl. n.`).
 - Cizí názvy nechávej v původním tvaru, pokud se v češtině běžně nepřekládají; skloňuj jen tam, kde to čeština přirozeně dělá.
 
 Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destinace*.
+
+Před osnovou a draftem výletového článku načti `AI/skills/🤖clanek-vylet.md`.
 
 ---
 
@@ -89,7 +91,7 @@ Než začneš psát, ujasni si (nebo se zeptej):
 - rubrika / typ textu (výlet, reportáž, tip na víkend, medailon místa…)
 - deadline a číslo, pokud existují
 - omezení (nesmí se zmínit X, musí být praktické info Y)
-- zda existuje vzor (`📜` / `podklady/vzory/`) nebo starší verze
+- zda existuje vzor (`podklady/vzory/`) nebo starší verze
 
 Chybí-li úhel pohledu, navrhni 2–3 a počkej. Nezačínej draftem, když zadání drží jen název místa.
 
@@ -99,18 +101,16 @@ Chybí-li úhel pohledu, navrhni 2–3 a počkej. Nezačínej draftem, když zad
 - Nevymýšlej historky, citace, vzdálenosti, letopočty ani „místní legendu“.
 - Nejistotu piš jako nejistotu, ne jako jistotu.
 - Rešerši ukládej jako `📝`, ne jako hotový článek.
-- Vzory slouží rytmu a stavbě, ne ke kopírování vět a ne jako pramen faktů.
+- Vzory v `podklady/vzory/` slouží rytmu a stavbě, ne ke kopírování vět.
 
 ### 5.3 Osnova
 
-Osnova je dohoda o stavbě, ne článek. U výletového článku drž šablonu v `AI/skills/🤖clanek-vylet.md`.
-
-Obsahuje:
+Osnova je dohoda o stavbě, ne článek. U výletového článku se drž `AI/skills/🤖clanek-vylet.md`. Osnova obsahuje:
 
 - pracovní titulek + 1–2 varianty
-- perex / slib čtenáři (1–3 věty)
+- perex / slib čtenáři (kde, kdo dal podobu, proč teď)
 - části v pořadí čtení, u každé 2–4 body co musí říct
-- praktické údaje zapletené do textu (doprava, schody, sezona), pokud se k typu hodí
+- které ověřené číslo a který příběh ponesou text
 - otázky, které ještě visí
 
 Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou draftem“.
@@ -148,7 +148,6 @@ Kontroluj:
 - velká písmena u institucí a názvů
 - české uvozovky „…“, pomlčku —, nehybné mezery u jednopísmenných předložek tam, kde text půjde do sazby
 - křížení české a anglické interpunkce
-- jména a tituly (*Mgr.*, *Josef II.*), ať se v textu nekíží
 
 Našel-li se skill v `AI/skills/` pro češtinu nebo korekturu, použij ho v této fázi. Obecný anglický prose-review **není** výchozí nástroj pro tyto články.
 
@@ -195,9 +194,9 @@ Skilly žijí v `AI/skills/`.
 - Skill nepřepisuje Git pravidla ani konvence názvů.
 - Vestavěné anglické skilly (prose-review, book-editor, test-reader) používej jen když se hodí k úkolu. Výchozí jazyková norma tohoto projektu je čeština.
 
-Aktivní skilly:
+Aktivní:
 
-- `AI/skills/🤖clanek-vylet.md` — osnova a draft výletového článku
+- `AI/skills/🤖clanek-vylet.md` — stavba a hlas výletového článku
 
 Ještě chybí:
 
