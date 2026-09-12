@@ -4,7 +4,7 @@ Jedeme na Zaječí hrad. Říká se mu tak podle erbu: Zbyněk Zajíc z Valdeka 
 
 ## Nad Klapým
 
-Hrad sedí na vrchu vysokém 418 metrů, obec Klapý leží pod ním. Výlet začíná na parkovišti pod hradem, u vsi. Automat, zákaz vjezdu k bráně, pěšky asi dva a půl kilometru a převýšení kolem sto čtyřiceti metrů.
+Hrad sedí na vrchu vysokém 418 metrů, obec Klapý leží pod ním. Výlet začíná na parkovišti pod hradem, u vsi. Automat, zákaz vjezdu k bráně. Pěšky zbývají asi dva a půl kilometru. Čeká vás stoupání zhruba sto čtyřicet metrů.
 
 Z návsi i z parkoviště máte věže pořád před sebou. Nejdete za značkou naslepo. Jižní svah pod věžemi je kamenitý a holý. Tudy značka nevede.
 
@@ -14,7 +14,7 @@ V září bývá hrad otevřený mimo pondělí, ke konci měsíce se hodiny kr�
 
 Z parkoviště se jde po žluté. Kopec obejde západem a severem, lesem, a teprve u rozcestí předá na červenou. Po červené se přichází k bráně od východu. Červená z Libochovic se na tutéž stranu napojí mírněji, mezi sady a vinicí.
 
-S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou — a vy jste přišli z lesa, ne po tom srázu, který máte z návsi celou dobu na očích.
+Těch sto čtyřicet metrů převýšení jde většinou lesem, ne po holém srázu. S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou — a vy jste přišli z lesa, ne po tom svahu, který máte z návsi celou dobu na očích.
 
 ## Dvě věže
 
