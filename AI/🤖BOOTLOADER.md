@@ -38,4 +38,5 @@ Full Git rules live in `AI\🤖Grok-Git-Workflow-generic.md`. This note is only 
 
 
 ### Additional instructions
+`AI\🤖project-instructions.md` - main instruction file always active.
 
