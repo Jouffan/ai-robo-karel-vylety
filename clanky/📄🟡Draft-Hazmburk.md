@@ -4,27 +4,27 @@ Jedeme na Zaječí hrad. Říká se mu tak podle erbu: Zbyněk Zajíc z Valdeka 
 
 ## Nad Klapým
 
-Hrad sedí na vrchu vysokém 418 metrů, obec Klapý leží pod ním. Výlet začíná na parkovišti v půli jižního svahu. Automat, zákaz vjezdu k bráně, pěšky asi dva a půl kilometru a převýšení kolem sto čtyřiceti metrů.
+Hrad sedí na vrchu vysokém 418 metrů, obec Klapý leží pod ním. Výlet začíná na parkovišti pod hradem, u vsi. Automat, zákaz vjezdu k bráně, pěšky asi dva a půl kilometru a převýšení kolem sto čtyřiceti metrů.
 
-Z návsi i z parkoviště máte věže pořád před sebou. Nejdete za značkou naslepo.
+Z návsi i z parkoviště máte věže pořád před sebou. Nejdete za značkou naslepo. Jižní svah pod věžemi je kamenitý a holý. Tudy značka nevede.
 
 V září bývá hrad otevřený mimo pondělí, ke konci měsíce se hodiny krátí. Přesný čas ověřte před cestou. V nepohodě věž zavírají.
 
 ## Lesem nahoru
 
-Nahoru se nejde jižním srázem. Značka obejde kopec a vede lesem od východu, k rozcestí pod hradem. Žlutá je kratší a příkřejší. Červená z Libochovic se napojí mírněji, mezi sady a poli. V září po ní vidíte, kam jdete, skoro celou dobu.
+Z parkoviště se jde po žluté. Kopec obejde západem a severem, lesem, a teprve u rozcestí předá na červenou. Po červené se přichází k bráně od východu. Červená z Libochovic se na tutéž stranu napojí mírněji, mezi sady a vinicí.
 
-Z parkoviště se většinou jde žlutou. Nejdřív sad, potom lesní cesta. S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou.
+S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou — a vy jste přišli z lesa, ne po tom srázu, který máte z návsi celou dobu na očích.
 
 ## Dvě věže
 
-Temeno se táhne od západu k východu. Na jih z hradeb padá příkrý kamenitý svah, holý a strmý. Tudy se nechodí. Stačí chvíle pohledu dolů a je jasné, proč se nikomu nechtělo tenhle hrad dobývat.
+Temeno se táhne od západu k východu. Na jih z hradeb padá příkrý kamenitý svah, holý a strmý, a pod ním parkoviště, odkud jste vyšli. Tudy se nechodí. Stačí chvíle pohledu dolů a je jasné, proč se nikomu nechtělo tenhle hrad dobývat.
 
 Dole vévodí oválná Černá věž z místního tmavého čediče, vysoká pětadvacet metrů, se zdmi silnými kolem dvou metrů. Dovnitř se kdysi vcházelo až v poschodí po visuté pavlači. Dnes je zavřená. Stojíte před ní a vidíte, proč se jí říká Černá.
 
 Nahoře v jádře stojí Bílá. Hranolová, šestadvacet metrů, s cimbuřím. Základy z čediče, střed z tesaného pískovce, koruna z opracovaných kvádrů. Nejméně tři stavební etapy. Právě sem se vystupuje.
 
-Z ochozu je vidět do všech stran. Na severu les, kudy se jde nahoru, a za ním České středohoří s Milešovkou. Na východě Říp v rovině, pod kopcem Klapý, sady a pruhy polí, dál Poohří a Česká tabule. Černou věž máte z Bílé jako na dlani. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
+Z ochozu je vidět do všech stran. Na severu les, kudy se šlo nahoru, a za ním České středohoří s Milešovkou. Na východě Říp v rovině. Na jihu Klapý, vinice a pruhy polí, dál Poohří a Česká tabule. Černou věž máte z Bílé jako na dlani. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
 
 Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt až na cimbuří. U pokladny bývá malý bufet.
 
@@ -42,4 +42,4 @@ Cestou dolů má obec pod hradem jiný význam. Klapý není jen parkoviště. S
 
 Hrad na temeni zůstal. Obec dole zjistila, že kopec není jen vyhlídka.
 
-K parkovišti je to rychlejší než nahoru. Značka zase bere les, ne jižní sráz. Dvě věže máte nejdřív nad sebou, potom zase na obzoru. Z Klapého vypadají jako ráno. Jen víte, co je z nich vidět.
+Zpátky se jde zase červenou do lesa a žlutou kolem kopce, ne po jižním srázu. Parkoviště uvidíte dřív z hradeb než z cesty. Z Klapého dvě věže vypadají jako ráno. Jen víte, co je z nich vidět.
