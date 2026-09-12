@@ -24,7 +24,7 @@ Dole vévodí oválná Černá věž z místního tmavého čediče, vysoká pě
 
 Nahoře v jádře stojí Bílá. Hranolová, šestadvacet metrů, s cimbuřím. Základy z čediče, střed z tesaného pískovce, koruna z opracovaných kvádrů. Nejméně tři stavební etapy. Právě sem se vystupuje.
 
-Z ochozu je vidět do všech stran. Na severu les, kudy se šlo nahoru, a za ním České středohoří s Milešovkou. Na východě Říp v rovině. Na jihu Klapý, vinice a pruhy polí, dál Poohří a Česká tabule. Černou věž máte z Bílé jako na dlani. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
+Z Bílé věže je vidět na všechny strany, a to dokonale. Na severu České středohoří s Milešovkou, na východě Říp v rovině, na jihu Klapý, vinice a pruhy polí, dál Poohří a Česká tabule. Černou věž máte jako na dlani. Schovaná zůstává jen cesta, kudy se šlo nahoru — ta se ztrácí v lese pod severním svahem. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
 
 Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt až na cimbuří. U pokladny bývá malý bufet.
 
