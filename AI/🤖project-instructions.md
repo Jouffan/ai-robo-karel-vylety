@@ -23,7 +23,9 @@ Canon žije na GitHubu `Jouffan/ai-robo-karel-vylety`, větev `main`. Sandbox, c
 | `AI/🤖BOOTLOADER.md` | Start sezení, umístění projektu, základní konvence názvů |
 | `AI/🤖Grok-Git-Workflow-generic.md` | Větve, push, ověření, emoji v cestách |
 | `AI/🤖project-instructions.md` | Tento soubor — fáze práce na článku |
-| `AI/skills/🤖clanek-vylet.md` | Stavba a hlas výletového článku (podle vzorů) |
+| `AI/🤖Karel-Malina-Styl.md` | Popis rukopisu a hodnocení shody |
+| `AI/skills/🤖clanek-vylet.md` | Stavba výletového článku |
+| `AI/skills/🤖pis-jako-karel.md` | Hlas: věta, slovník, formule — bez vzorových chyb |
 | `AI/skills/` | Další skilly |
 | `📄…` | Produktový článek |
 | `podklady/vzory/` | Vzorové starší články (inspirace, ne kopie) |
@@ -36,7 +38,7 @@ Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovs
 ## 3. Jazyk, hlas, čtenář
 
 - Cílový jazyk článku: **spisovná čeština**, živá, čitelná, bez kalků z angličtiny.
-- Hlas: zvídavý průvodce, ne reklamní leták a ne encyklopedické heslo.
+- Hlas: zvídavý průvodce, ne reklamní leták a ne encyklopedické heslo. Před draftem načti `AI/skills/🤖pis-jako-karel.md`.
 - Čtenář: dospělý zájemce o výlety a místa; očekává konkrétní informace a atmosféru.
 - Vykej, pokud zadání neurčí jinak.
 - Čísla, míry, časy a názvy míst uváděj česky a ověřeně (`15 km`, `v 9.30`, `nádraží Praha hl. n.`).
@@ -44,7 +46,7 @@ Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovs
 
 Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destinace*.
 
-Před osnovou a draftem výletového článku načti `AI/skills/🤖clanek-vylet.md`.
+Před osnovou výletového článku načti `AI/skills/🤖clanek-vylet.md`. Před draftem ještě `AI/skills/🤖pis-jako-karel.md`.
 
 ---
 
@@ -117,6 +119,7 @@ Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou dr
 
 ### 5.4 Draft
 
+- Než začneš psát věty, načti `AI/skills/🤖pis-jako-karel.md`.
 - Piš podle schválené osnovy. Odchylku pojmenuj.
 - Nejdřív celistvý text, teprve potom kosmetika.
 - Každá část má dělat jednu práci: zavést místo, vést trasu, dát kontext, předat praktickou informaci, uzavřít.
@@ -128,7 +131,7 @@ Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou dr
 Až po draftu. Odděluj vrstvy:
 
 1. **Stavba** — pořadí, délka částí, slib z perexu vs. text, duplicity.
-2. **Věty** — rytmus, přesnost sloves, zbytečná přídavná jména, opakované starty vět.
+2. **Věty** — rytmus podle `AI/skills/🤖pis-jako-karel.md`, přesnost sloves, zbytečná přídavná jména.
 3. **Fakta** — jmenné tvary, geografické údaje, čísla, časové údaje.
 
 Při ladění zachovej hlas draftu. Nepřepisuj všechno „lépe“, pokud to uživatel nechce.
@@ -196,7 +199,9 @@ Skilly žijí v `AI/skills/`.
 
 Aktivní:
 
-- `AI/skills/🤖clanek-vylet.md` — stavba a hlas výletového článku
+- `AI/skills/🤖clanek-vylet.md` — stavba výletového článku
+- `AI/skills/🤖pis-jako-karel.md` — hlas bez vzorových chyb
+- `AI/🤖Karel-Malina-Styl.md` — profil rukopisu a skóre shody
 
 Ještě chybí:
 
