@@ -23,8 +23,12 @@ Ne:
 > Tohle musíte zažít.
 >
 > Dechberoucí panorama, které si zamilujete.
+>
+> Automat, zákaz vjezdu k bráně. Pěšky zbývají asi dva a půl kilometru.
 
 Souvislá próza. Žádné odrážky, boxy, tabulky. Mezititulek je věcný, 2–5 slov, ne otázka.
+
+Úsečné holé věty za sebou nejsou próza. Jsou to odrážky bez znaménka. Servis (parkování, značka, zákaz, převýšení) zapoj slovesem a dvojtečkou nebo souvětím: *K bráně se autem nesmí, u závory je automat a dál se jde pěšky.* Krátká věta smí zůstat, když něco uzavírá — ne když něco vyjmenovává.
 
 ---
 
@@ -84,6 +88,8 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 - cenník a otevírací doba jako box
 - kritika památky v autorské řeči
 - anglická korektura českého textu
+- telegrafický servis (*Automat. Zákaz vjezdu. Pěšky dva a půl kilometru.*)
+- háček ve vstupu, který smaže starší vrstvu místa (založení, původní jméno)
 
 ---
 
@@ -91,7 +97,7 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 
 - [ ] žádná věta ze vzoru není přepsaná
 - [ ] já / naše setkání jen když se to stalo
-- [ ] aspoň jedna krátká pointa, žádný slogan
+- [ ] aspoň jedna krátká pointa, žádný slogan a žádný telegraf
 - [ ] *parádní* nebo *náramný* sedí; *dechberoucí* ne
 - [ ] formule ze seznamu nejvýš jednou
 - [ ] čísla a citace jdou ověřit, nebo v textu nejsou

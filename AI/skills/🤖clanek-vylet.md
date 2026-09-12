@@ -12,7 +12,7 @@ Zdroj analýzy: čtyři texty Karla Maliny. Vzory prošly jazykovou očistou (p�
 
 Autor je návštěvník, který místem prošel a často mluvil s kastelánem nebo tiskovou. Čtenáře bere s sebou po okruhu a přitom mu vypráví, kdo tady žil.
 
-Délka vzorů: zhruba 6–10 tisíc znaků (cca 900–1600 slov). Čtyři až šest mezititulků. Podnadpisy třetí úrovně vzory nepoužívají. Odstavce jsou souvislá próza, ne odrážky.
+Délka vzorů: zhruba 6–10 tisíc znaků (cca 900–1600 slov). Čtyři až šest mezititulků. Podnadpisy třetí úrovně vzory nepoužívají. Odstavce jsou souvislá próza, ne odrážky a ne řada úsečných holých vět, která odrážky jen napodobuje.
 
 Tón je vstřícný. Kritika památky se ve vzorech nevyskytuje. To neznamená reklamní nadšení — konkrétnost nahrazuje chválu.
 
@@ -42,6 +42,10 @@ Způsoby startu, které vzory střídají:
 - zeměpisné ukotvení (Střekov),
 - zakládací věta s letopočtem až na konci (Náchod),
 - scéna příchodu v ich-formě (Litomyšl) — použij jen když návštěva opravdu byla.
+
+**Pořadí vrstev ve vstupu.** Když místo měnilo jméno nebo pána, drž chronologii: starší hrad / starší jméno → koupě a kdo z něj udělal rodové sídlo → přejmenování. Nekrať to do vtipného přídomku (*Jedeme na Zaječí hrad*), pokud tím zmizí, že hrad stál dřív a jmenoval se jinak. Přídomkem smíš začít až když je pod ním ta posloupnost vidět.
+
+Bod 2 není jen etymologie. Musí být jasné: co tu bylo před tím, kdo to koupil, že si z toho udělal sídlo, a jak se změnilo jméno. Původ v 13. století a sláva pod novým jménem ve 14. století nejsou jedna věc.
 
 ### Mezititulky
 
@@ -91,7 +95,13 @@ Historie v minulém čase. Historický prezéns jen na zlomek osudu (*roku 1582 
 
 ## Věta a slovník
 
-Rytmus: střídat dlouhé souvětí s výčtem a krátkou větu s pointou. Krátká věta není slogan. Přípustné je *Schodů je dost, ale výhled náramný.* Nepřípustné je *Tohle musíte zažít.*
+Rytmus: střídat dlouhé souvětí s výčtem a krátkou větu s pointou. Krátká věta není slogan a není ani heslový řádek. Přípustné je *Schodů je dost, ale výhled náramný.* Nepřípustné je *Tohle musíte zažít.* Stejně nepřípustné je *Automat, zákaz vjezdu k bráně. Pěšky zbývají…*
+
+**Servis není telegraf.** Parkování, značka, převýšení, zákaz vjezdu, vzdálenost patří do souvislé věty se slovesem a vazbou. Ne do řady úsečných holých vět, které jen schovávají odrážky. Krátká věta je pointa *uvnitř* odstavce, ne způsob, jak vysypat praktické údaje.
+
+Ano: *Výlet začíná na parkovišti u vsi: k bráně se autem nesmí, u závory je automat a dál se jde pěšky.*
+
+Ne: *Automat, zákaz vjezdu k bráně. Pěšky zbývají asi dva a půl kilometru.*
 
 Tři vrstvy slovníku, všechny tři mají být přítomné:
 
@@ -123,7 +133,7 @@ Servis (parkování, značka, počet schodů, název okruhu) ve vzorech **není*
 ## Osnova před draftem
 
 1. titulek + varianta
-2. vstup: kde / kdo dal podobu / proč teď
+2. vstup: kde / kdo dal podobu / proč teď — a u přejmenovaného místa i starší vrstva
 3. 4–6 mezititulků s 2–4 body
 4. které číslo a který příběh ponesou text
 5. co je ověřené a co visí
@@ -138,14 +148,16 @@ Bez úhlu „proč teď“ nezačínej draft.
 - vymýšlený rozhovor, aby text „působil reportážně“
 - prázdný superlativ bez opory
 - anglickou korekturu českého textu
+- úsečný „AI rytmus“ (krátké holé věty za sebou místo prózy)
 
 ---
 
 ## Mini-checklist před odevzdáním draftu
 
 - [ ] titulek slibuje totéž co text
-- [ ] vstup má místo, původ podoby a důvod „teď“
+- [ ] vstup má místo, původ podoby a důvod „teď“; u přejmenování i starší jméno a založení
 - [ ] kapitoly střídají příběh a chůzi po areálu
+- [ ] servis je ve větách, ne v telegrafu ani v odrážkách
 - [ ] aspoň několik ověřených čísel, žádné falešné
 - [ ] nejvýš jedna až dvě lidské odbočky, ne rodokmen samotný
 - [ ] citace jen z reálného zdroje
