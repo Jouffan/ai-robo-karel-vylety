@@ -55,7 +55,7 @@ Vstup také řekne, **proč právě teď**: sezona, rekonstrukce, festival, nov�
 
 ### Pořadí kapitol
 
-Pevené pořadí témat, kapitolu vynech jen když v místě není:
+Pevné pořadí témat, kapitolu vynech jen když v místě není:
 
 1. historie a majitelé
 2. konkrétní unikát (sgrafita, divadlo, obrazárna, zbrojnice, výhled)
@@ -88,7 +88,7 @@ Přepínání osoby je součást žánru, ne chyba. Drž ho čitelné:
 | autorský plurál | chůze po trase (*míříme*, *můžeme si prohlédnout*) |
 | vykání čtenáři | pozvánka do místa (*navštívíte*, *nahlédnete*, *pokud se ptáte*) |
 
-Historie v minulém čase. Dramatický zlom může přepnout do historického prezéntu (*V roce 1582 náhle umírá při plavbě po Dunaji*). Nepřepínej v každé větě.
+Historie v minulém čase. Dramatický zlom může přepnout do historického prézentu (*V roce 1582 náhle umírá při plavbě po Dunaji*). Nepřepínej v každé větě.
 
 ---
 
@@ -116,9 +116,9 @@ Autorské spojky, které smíš použít, ale ne v každém odstavci:
 
 ## 6. Čísla, kuriozity, citace
 
-Konkrétní číslo je odmena čtenáře i důkaz, že autor na místě byl: počet schodů, děl v katalogu, hektarů obory, dětí, psaníček. Jen ověřená čísla. Vymýšlené „přes dvě stě“ je horší než žádné číslo.
+Konkrétní číslo je odměna čtenáře i důkaz, že autor na místě byl: počet schodů, děl v katalogu, hektarů obory, dětí, psaníček. Jen ověřená čísla. Vymýšlené „přes dvě stě“ je horší než žádné číslo.
 
-Odbočka k příběhu zlidšťuje výčet letopočtů: sňatek, dluh, císařská návštěva, restituci, skandál. Jedna až dvě odbočky na článek stačí. Jemná ironie je dovolená (*…víc než na krásu zámku myslel na astronomický dluh.*), posměch ne.
+Odbočka k příběhu zlidšťuje výčet letopočtů: sňatek, dluh, císařská návštěva, restituce, skandál. Jedna až dvě odbočky na článek stačí. Jemná ironie je dovolená (*…víc než na krásu zámku myslel na astronomický dluh.*), posměch ne.
 
 Citace kastelána nebo tiskového servisu:
 
