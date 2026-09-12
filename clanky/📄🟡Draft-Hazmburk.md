@@ -12,19 +12,19 @@ V září bývá hrad otevřený mimo pondělí, ke konci měsíce se hodiny kr�
 
 ## Lesem nahoru
 
-Žlutá značka bere svah napřímo, kamením a lesem. Je kratší a příkřejší. Červená z Libochovic se na tutéž bránu napojí mírněji, mezi sady a poli. V září po ní vidíte, kam jdete, skoro celou dobu.
+Nahoru se nejde jižním srázem. Značka obejde kopec a vede lesem od východu, k rozcestí pod hradem. Žlutá je kratší a příkřejší. Červená z Libochovic se napojí mírněji, mezi sady a poli. V září po ní vidíte, kam jdete, skoro celou dobu.
 
-Z parkoviště se většinou jde žlutou. Nejdřív sad, potom kamenitá cesta. S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou.
+Z parkoviště se většinou jde žlutou. Nejdřív sad, potom lesní cesta. S kočárkem to jde jen s obtížemi, s dětmi v nosítku lépe. Stoupání není dlouhé. Chvíli a hradba už není na obzoru, ale nad hlavou.
 
 ## Dvě věže
 
-Temeno se táhne od západu k východu. Z hradeb hledíte dolů po příkrém kamenitém svahu, kterým jste právě vyšli. Stačí chvíle a je jasné, proč se nikomu nechtělo tenhle hrad dobývat.
+Temeno se táhne od západu k východu. Na jih z hradeb padá příkrý kamenitý svah, holý a strmý. Tudy se nechodí. Stačí chvíle pohledu dolů a je jasné, proč se nikomu nechtělo tenhle hrad dobývat.
 
 Dole vévodí oválná Černá věž z místního tmavého čediče, vysoká pětadvacet metrů, se zdmi silnými kolem dvou metrů. Dovnitř se kdysi vcházelo až v poschodí po visuté pavlači. Dnes je zavřená. Stojíte před ní a vidíte, proč se jí říká Černá.
 
 Nahoře v jádře stojí Bílá. Hranolová, šestadvacet metrů, s cimbuřím. Základy z čediče, střed z tesaného pískovce, koruna z opracovaných kvádrů. Nejméně tři stavební etapy. Právě sem se vystupuje.
 
-Z ochozu je vidět do všech stran. Na severu České středohoří s Milešovkou, na východě Říp v rovině, pod kopcem Klapý, sady a pruhy polí, dál Poohří a Česká tabule. Černou věž máte z Bílé jako na dlani. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
+Z ochozu je vidět do všech stran. Na severu les, kudy se jde nahoru, a za ním České středohoří s Milešovkou. Na východě Říp v rovině, pod kopcem Klapý, sady a pruhy polí, dál Poohří a Česká tabule. Černou věž máte z Bílé jako na dlani. V září, kdy slunce drží, mlha panorama nesežene. Schodů je dost. Výhled náramný.
 
 Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt až na cimbuří. U pokladny bývá malý bufet.
 
@@ -32,7 +32,7 @@ Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt a
 
 Zbyněk hrad rozšířil o hradbu, brány a Černou věž, až zabral celé temeno. V dobách slávy měl půdorys zhruba sto sedmdesát na třicet metrů. Zajícové tu sídlili do poloviny 16. století.
 
-Za husitských válek stáli na katolické straně. Hrad husité nedobyli — a z toho svahu je vidět proč. Drželi i Libochovice a Budyni, panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
+Za husitských válek stáli na katolické straně. Hrad husité nedobyli — a z jižního srázu je vidět proč. Drželi i Libochovice a Budyni, panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
 
 Na jižním svahu zbyla stopa městečka Podhradí: plošina, hradba, dvě nárožní věže, kdysi i kostelík sv. Mikuláše. Když část rodu odešla do pohodlnější Budyně a roku 1558 koupili panství Lobkovicové, hrad i zázemí pustly. Karel Hynek Mácha zříceninu zná jako Hanžburek.
 
@@ -42,4 +42,4 @@ Cestou dolů má obec pod hradem jiný význam. Klapý není jen parkoviště. S
 
 Hrad na temeni zůstal. Obec dole zjistila, že kopec není jen vyhlídka.
 
-K parkovišti je to rychlejší než nahoru. Dvě věže máte nejdřív nad sebou, potom zase na obzoru. Z Klapého vypadají jako ráno. Jen víte, co je z nich vidět.
+K parkovišti je to rychlejší než nahoru. Značka zase bere les, ne jižní sáz. Dvě věže máte nejdřív nad sebou, potom zase na obzoru. Z Klapého vypadají jako ráno. Jen víte, co je z nich vidět.
