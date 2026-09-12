@@ -41,7 +41,7 @@ Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovs
 - Čísla, míry, časy a názvy míst uváděj česky a ověřeně (`15 km`, `v 9.30`, `nádraží Praha hl. n.`).
 - Cizí názvy nechávej v původním tvaru, pokud se v češtině běžně nepřekládají; skloňuj jen tam, kde to čeština přirozeně dělá.
 
-Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destince*.
+Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destinace*.
 
 ---
 
@@ -110,7 +110,7 @@ Osnova je dohoda o stavbě, ne článek. Obsahuje:
 - praktický box (doprava, čas, obtížnost, sezóna), pokud se k typu textu hodí
 - otázky, které ještě visí
 
-Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou drafem“.
+Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou draftem“.
 
 ### 5.4 Draft
 
@@ -209,7 +209,7 @@ Navrhované první skilly (až se budou zakládat):
 - Neoznačuj text `✅` sám od sebe.
 - Nevytvářej soubory mimo dohodnutou rodinu prefixů.
 - Neukládej do repositáře mezigenerační skripty ani dočasné odkladiště.
-- Neplní český text anglickou korekturou „na sílu“.
+- Nekontroluj český text anglickou korekturou „na sílu“.
 
 ---
 
