@@ -18,7 +18,9 @@ Z parkoviště se většinou jde žlutou. Nejdřív sad, potom kamenitá cesta. 
 
 ## Dvě věže
 
-Temeno se táhne od západu k východu. Dole vévodí oválná Černá věž z místního tmavého čediče, vysoká pětadvacet metrů, se zdmi silnými kolem dvou metrů. Dovnitř se kdysi vcházelo až v poschodí po visuté pavlači. Dnes je zavřená. Stojíte před ní a vidíte, proč se jí říká Černá.
+Temeno se táhne od západu k východu. Z hradeb hledíte dolů po příkrém kamenitém svahu, kterým jste právě vyšli. Stačí chvíle a je jasné, proč se nikomu nechtělo tenhle hrad dobývat.
+
+Dole vévodí oválná Černá věž z místního tmavého čediče, vysoká pětadvacet metrů, se zdmi silnými kolem dvou metrů. Dovnitř se kdysi vcházelo až v poschodí po visuté pavlači. Dnes je zavřená. Stojíte před ní a vidíte, proč se jí říká Černá.
 
 Nahoře v jádře stojí Bílá. Hranolová, šestadvacet metrů, s cimbuřím. Základy z čediče, střed z tesaného pískovce, koruna z opracovaných kvádrů. Nejméně tři stavební etapy. Právě sem se vystupuje.
 
@@ -30,7 +32,7 @@ Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt a
 
 Zbyněk hrad rozšířil o hradbu, brány a Černou věž, až zabral celé temeno. V dobách slávy měl půdorys zhruba sto sedmdesát na třicet metrů. Zajícové tu sídlili do poloviny 16. století.
 
-Za husitských válek stáli na katolické straně a hrad husité nedobyli. Drželi i Libochovice a Budyni, panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
+Za husitských válek stáli na katolické straně. Hrad husité nedobyli — a z toho svahu je vidět proč. Drželi i Libochovice a Budyni, panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
 
 Na jižním svahu zbyla stopa městečka Podhradí: plošina, hradba, dvě nárožní věže, kdysi i kostelík sv. Mikuláše. Když část rodu odešla do pohodlnější Budyně a roku 1558 koupili panství Lobkovicové, hrad i zázemí pustly. Karel Hynek Mácha zříceninu zná jako Hanžburek.
 
