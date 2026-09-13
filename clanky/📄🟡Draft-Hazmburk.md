@@ -32,7 +32,7 @@ Před Černou věží stojí stoly. I odtud je daleko vidět, kdo nechce lézt a
 
 Zbyněk hrad rozšířil o hradbu, brány a Černou věž, až zabral celé temeno. V dobách slávy měl půdorys zhruba sto sedmdesát na třicet metrů. Zajícové tu sídlili do poloviny 16. století.
 
-Za husitských válek stáli na katolické straně. Husité Házmburk nedobyli. Stačí pohled z hradeb na jižní kamenitý sráz — takový svah se útočníkovi nevystupuje. Zajícové k tomu drželi Libochovice i Budyni a jejich panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
+Za husitských válek stáli na katolické straně. Husité Házmburk nedobyli. Stačí pohled z hradeb na jižní kamenitý sráz — lézt do takového svahu se útočníkům určitě moc nechtělo. Zajícové k tomu drželi Libochovice i Budyni a jejich panství přetínalo cestu mezi kališnickými městy. Roku 1440 se tu ukrývala bohoslužebná roucha z Pražského hradu.
 
 Na jižním svahu zbyla stopa městečka Podhradí: plošina, hradba, dvě nárožní věže, kdysi i kostelík sv. Mikuláše. Když část rodu odešla do pohodlnější Budyně a roku 1558 koupili panství Lobkovicové, hrad i zázemí pustly. Karel Hynek Mácha zříceninu zná jako Hanžburek.
 
