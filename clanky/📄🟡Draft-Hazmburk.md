@@ -1,8 +1,8 @@
 # Výhledy z Házmburka
 
-Na čedičovém kuželu nad Poohřím stával od roku 1250 hrad Klapý, který založili Lichtenburkové. Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho po sobě německy: z erbu vzal zajíce (Hase) a z hradu udělal Hasenburg. Karel Hynek Mácha ho o pět století později znal jako Hanžburek a z Litoměřic v říjnu 1836 psal příteli Eduardu Hindlovi, že mu „svatý Hanžburek kouká všemi okny až do postele, nechť ji postavím kde chci“. Dvě věže nad vsí jsou od Zajíců značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
+Na čedičovém kuželu nad Poohřím stával od roku 1250 hrad Klapý, který založili Lichtenburkové. Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho po sobě německy: z erbu vzal zajíce (Hase) a z hradu udělal Hasenburg. Karel Hynek Mácha ho znal jako Hanžburek. Dvě věže nad vsí jsou od Zajíců značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
 
-Výlet začíná na parkovišti u obce Klapý, která leží přímo pod kopcem vysokým 418 metrů. K bráně se autem nesmí a u závory je automat, takže dál se jde pěšky. K hradu zbývají asi 2,5 kilometru a převýšení zhruba 140 metrů. Z parkoviště vede žlutá značka, která kopec obejde západem a severem lesem a teprve u rozcestí předá na červenou; po červené se k bráně přichází od východu. Stoupání není dlouhé, ale jde se kamenitou lesní cestou. S kočárkem to je trápení, s dětmi v nosítku to jde lépe.
+Výlet začíná na parkovišti u obce Klapý, která leží přímo pod kopcem vysokým 418 metrů. K bráně se autem nesmí a u závory je automat, takže dál se jde pěšky. K hradu zbývají asi 2,5 kilometru a převýšení zhruba 140 metrů. Z parkoviště vede žlutá značka okolo kopce lesem, u rozcestí se připojí červená a ta vede k bráně. Stoupání není dlouhé, ale jde se kamenitou lesní cestou. S kočárkem to je trápení, s dětmi v nosítku to jde lépe.
 
 ## Zajícové z Házmburka
 
@@ -14,15 +14,15 @@ Za husitských válek stáli Zajícové na katolické straně. Hrad se považova
 
 Hned za branou, u paty oválné věže z tmavého čediče, stojí pokladna ve strážním domku. Vstupné se platí, i když na Bílou věž nelezete. Dá se tu koupit nápoj a sušenky, ale restauraci nečekejte. Piknik je lepší vzít s sebou.
 
-Dolní části hradu vévodí Černá věž, vysoká 25 metrů a se zdmi silnými kolem 2 metrů. Vznikla jako obranný prvek střežící přístupovou cestu, která stoupala po severním svahu k branám. Vstup nebyl v přízemí, ale v úrovni prvního patra, po dřevěné visuté pavlači z paláce, který se nedochoval, takže případný útočník měl smůlu. Později sloužila i jako vězení. Roku 1863 obyvatelé Klapého dokonce vybourali otvor v přízemí, protože věřili, že uvnitř objeví poklad.
+Dolní části hradu vévodí Černá věž, vysoká 25 metrů a se zdmi silnými kolem 2 metrů. Vznikla jako obranný prvek střežící přístupovou cestu, která stoupala po severním svahu k branám. Vstup nebyl v přízemí, ale v úrovni prvního patra, po dřevěné visuté pavlači, takže se dovnitř nedostal. Později sloužila i jako vězení. Roku 1863 obyvatelé Klapého dokonce vybourali otvor v přízemí, protože věřili, že uvnitř objeví poklad.
 
 Dnes je věž zavřená a důvod je bezpečnostní. 5. května 1974 do ní uhodil blesk. Uvolnilo se několik kubíků zdiva a u paty zahynuli dva lidé – žák a vojín –, další byli zraněni. Od té doby zůstává uzavřená. Proč se jí říká Černá, je jasné na první pohled.
 
 ## Bílá věž
 
-Z dolního hradu míříme vzhůru do jádra, které je zaklíněné na čedičové skále. Tam stojí hranolová Bílá věž vysoká 26 metrů, s cimbuřím. Základy má z čediče, střed z tesaného pískovce a korunu z opracovaných kvádrů, takže ve zdivu jsou vidět nejméně tři etapy stavby. Jméno dostala podle světlého pískovce v horním dílu, který přibyl až při pozdějších přestavbách a zpočátku prý mohl být i dřevěný, jinak by věž nepřesahovala hradbu. Původní vchod byl v úrovni prvního patra, dnes se jde novým vstupem v přízemí.
+Z dolního hradu míříme vzhůru do jádra, které je zaklíněné na čedičové skále. Tam stojí hranolová Bílá věž vysoká 26 metrů, s cimbuřím. Základy má z čediče, střed z pískovce a korunu z opracovaných kvádrů – ve zdivu jsou vidět tři stavební etapy. Jméno dostala podle světlého pískovce v horním dílu, který přibyl při pozdějších přestavbách.
 
-Kolem věže jsou zbytky paláce, který tvořil jádro hradu. K vnitřní straně plášťové hradby kdysi přiléhaly tři palácové budovy, nejstarší a nejmohutnější na jihu, ale dochovala se jen torza a dvě cisterny. Jádro bylo těsné od začátku a v 15. století v něm zbyl volný prostor skoro jen u vody. Přístupná je jen tahle věž a slouží jako rozhledna. Pod dřevěnými schody v přízemí stojí model hradu, takže ještě před výstupem je vidět, jak sem paláce a hradby kdysi seděly. Schodů je dost, ale výhled náramný.
+K vnitřní straně hradby kdysi přiléhaly paláce, ale dochovala se jen torza a dvě cisterny. Jádro bylo těsné už od začátku. Přístupná je jen tahle věž a slouží jako rozhledna. Pod dřevěnými schody v přízemí stojí model hradu, takže ještě před výstupem je vidět, jak sem paláce a hradby kdysi seděly. Schodů je dost, ale výhled náramný.
 
 ## Výhledy
 
