@@ -7,7 +7,7 @@ Výlet začíná na parkovišti u obce Klapý, která leží přímo pod kopcem 
 ## Zajícové z Házmburka
 Nhoře před tím než projdeme branou si připomeneme historii pánů tohoto hradu. Již zmíněný Zbyněk – říkalo se mu také Transmarinus podle cesty do Svaté země – rozšířil nově nabytý hrad směrem na východ, celý vrcho obehnal hradbou, vztyčil brány, parkán a Černou věž, až tak zabral celé temeno kopce.
 Za husitských válek stáli Zajícové na katolické straně. Hrad se považoval za prakticky nedobytný a husitská vojska ho několikrát oblehla, ale marně. Roku 1440 sem byly na čas ukryty cennosti ze Strahovského kláštera i z Pražského hradu, drahocenná bohoslužebná roucha.
-Rod Zajíců zde sídlil až do poloviny 16. století než se přesunili do pohodlnější Budyně nad Ohří, kam část rodu dešla už dříve. V roce 1558 prodal Kryštof Zajíc zpustlé panství Lobkovicům. 
+Rod Zajíců zde sídlil až do poloviny 16. století než se přesunuli do pohodlnější Budyně nad Ohří, kam část rodu dešla už dříve. V roce 1558 prodal Kryštof Zajíc zpustlé panství Lobkovicům. 
 
 ## Černá věž
 Hned za branou, u paty oválné věže z tmavého čediče, stojí ve strážním domku pokladna. Vstupné se platí za vstup na hrad, tedy i když na Bílou věž vystoupat neplánujete. Je možné tu koupit nápoj a sušenky, ale restauraci nečekejte. Piknik je lepší vzít s sebou.
@@ -18,7 +18,7 @@ Zde v dolní části hradu vévodí Černá věž střežící přístupovou ces
 ## Bílá věž
 Z dolního hradu míříme vzhůru do jádra hradu, které je vybudované na čedičové skále. Tam stojí hranolová Bílá věž vysoká 26 metrů, s cimbuřím. Základy má z ice z čediče, ale střed z pískovce a korunu z opracovaných kvádrů. Jméno dostala podle světlého pískovce v horním dílu, který přibyl při pozdějších přestavbách.
 
-Kolem věže procházíme zbytky paláce, který tvořil jádro hradu. Dnes věž slouží jako rozhledna. Pod dřevěnými schody v přízemí stojí krásný model hradu jak vypadal v dobách své slávy. nahoru vede dřevěné schodiště, schodů je dost, ale náramný výhled za to stojí. Střerní čechy i Celý hrad i s Černou věží pod vámi máte jako na dlani. 
+Kolem věže procházíme zbytky paláce, který tvořil jádro hradu. Dnes věž slouží jako rozhledna. Pod dřevěnými schody v přízemí stojí krásný model hradu jak vypadal v dobách své slávy. Nahoru vede dřevěné schodiště, schodů je dost, ale výhled náramný. Z cimbuří je vidět celé okolí najednou a dál než z hradeb. Celý hrad i s Černou věží je odtud jako na dlani.
 
 
 ## Výhledy
