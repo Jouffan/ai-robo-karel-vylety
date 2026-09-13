@@ -1,6 +1,6 @@
 # Výhledy z Házmburka
 
-Na čedičovém kuželu nad Poohřím stával od roku 1250 hrad Klapý, který založili Lichtenburkové. Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho po sobě německy: z erbu vzal zajíce (Hase) a z hradu udělal Hasenburg. Dvě věže nad vsí jsou od té doby značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
+Na čedičovém kuželu nad Poohřím stával od roku 1250 hrad Klapý, který založili Lichtenburkové. Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho po sobě německy: z erbu vzal zajíce (Hase) a z hradu udělal Hasenburg. Karel Hynek Mácha ho o pět století později znal jako Hanžburek a z Litoměřic v říjnu 1836 psal příteli Eduardu Hindlovi, že mu „svatý Hanžburek kouká všemi okny až do postele, nechť ji postavím kde chci“. Dvě věže nad vsí jsou od Zajíců značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
 
 Výlet začíná na parkovišti u obce Klapý, která leží přímo pod kopcem vysokým 418 metrů. K bráně se autem nesmí a u závory je automat, takže dál se jde pěšky. K hradu zbývají asi 2,5 kilometru a převýšení zhruba 140 metrů. Z parkoviště vede žlutá značka, která kopec obejde západem a severem lesem a teprve u rozcestí předá na červenou; po červené se k bráně přichází od východu. Stoupání není dlouhé, ale jde se kamenitou lesní cestou. S kočárkem to je trápení, s dětmi v nosítku to jde lépe.
 
@@ -27,8 +27,6 @@ Kolem věže jsou zbytky paláce, který tvořil jádro hradu. K vnitřní stran
 ## Výhledy
 
 Z hradeb je vidět na všechny strany, a to i bez výstupu na cimbuří. Za zmínku ale stojí dvě vyhlídky. Západní leží za Bílou věží a otvírá České středohoří s Milešovkou, Košťálem, Kletečnou a Sedlem. Východní je pod Černou věží, tam kde stojí lavice a stoly. Odtud padá pohled do Poohří a na Českou tabuli, na pruhy polí a na Říp v rovině. Pod sebou máte Klapý a vinice. Z cimbuří se pak Černá věž ukáže jako na dlani. Jediné, co zůstane skryté, je cesta, kudy se šlo nahoru; ztrácí se v lese pod severním svahem.
-
-Z Litoměřic se na tutéž siluetu díval v říjnu 1836 Karel Hynek Mácha. Hrad znal jako Hanžburek a v dopise příteli Eduardu Hindlovi psal, že mu „svatý Hanžburek kouká všemi okny až do postele, nechť ji postavím kde chci“. Pár let předtím si ho nakreslil od Klapého. Kdo nechce lézt až na cimbuří, posedí u stolů pod Černou věží, i odtud je daleko vidět.
 
 ## Klapý
 
