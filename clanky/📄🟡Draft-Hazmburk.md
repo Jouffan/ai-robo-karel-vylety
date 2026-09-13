@@ -8,7 +8,7 @@ Výlet začíná na parkovišti u obce Klapý, která leží přímo pod kopcem 
 
 Až u brány je čas na to, kdo tady vlastně sídlil. Zbyněk, kterému se říkalo i Transmarinus podle cesty do Svaté země, hrad rozšířil o hradbu, brány a Černou věž, až zabral celé temeno. V dobách slávy měl půdorys zhruba 170 na 30 metrů a Zajícové tu bydleli do poloviny 16. století. Pohodlnější ale byla Budyně nad Ohří a část rodu tam odešla už dřív. Roku 1558 prodává Kryštof Zajíc panství Lobkovicům a hrad pustne. Později se synovec Jan Zbyněk na Budyni chlubil, že na alchymii vydal víc peněz než císař Rudolf II. Rod tím zchudl. Z kuželu nad Klapým už v té době nic neměl.
 
-Za husitských válek stáli Zajícové na katolické straně. Hrad se považoval za prakticky nedobytný a husité ho opravdu nedobyli. Roku 1440 sem byly na čas ukryty cennosti ze Strahovského kláštera i z Pražského hradu, drahocenná bohoslužebná roucha. Na jižním svahu zbyla stopa měestečka Podhradí, plošina s hradbou a dvěma nárožními věžemi, kdysi i s kostelíkem sv. Mikuláše.
+Za husitských válek stáli Zajícové na katolické straně. Hrad se považoval za prakticky nedobytný a husité ho opravdu nedobyli. Roku 1440 sem byly na čas ukryty cennosti ze Strahovského kláštera i z Pražského hradu, drahocenná bohoslužebná roucha. Na jižním svahu zbyla stopa městečka Podhradí, plošina s hradbou a dvěma nárožními věžemi, kdysi i s kostelíkem sv. Mikuláše.
 
 ## Černá věž
 
