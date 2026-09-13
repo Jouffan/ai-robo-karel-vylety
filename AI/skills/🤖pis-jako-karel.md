@@ -16,6 +16,8 @@ Odstavec má 4–8 vět na **jedno** téma. Uvnitř vedlejší věty, výčet, v
 
 Ne: dva úsečné odstavce za sebou pro účinek. Ne: odstavec o dvou větách, když šlo slít čtyři informace.
 
+Test před commitem: když tři a více vět po sobě přidávají po jednom faktu a žádná nejde po trase ani nehodnotí, slít je. Příklad špatně: výška. jméno. vězení. pavlač. 1863. 1974.
+
 ---
 
 ## Věta
@@ -58,15 +60,33 @@ Tento přepis do žádného článku nevkládej. Ukazuje jen: slít informace, d
 
 ## Osoba a čas
 
-- základ: 3. osoba
-- čtenář: vykání
-- po trase občas *míříme*, *můžeme si prohlédnout*
-- *při našem setkání* jen když rozhovor existuje
-- *jsem vstupoval* jen když návštěva existuje
+- **trasa: 1. osoba množného čísla** — *začínáme, vydáme se, míříme, procházíme, vracíme se*
+- **dějiny: 3. osoba**
+- čtenář: vykání u rady (*s kočárkem je to trápení*, *restauraci nečekejte*)
+- *při našem setkání* / *jsem vstupoval* jen když návštěva nebo rozhovor existují
 - historie v minulém čase
 - historický prezéns jen na jeden zlomek osudu (*náhle umírá*, *proto odchází*), ne na celou kapitolu
 
-Když jsi na místě nebyl a s nikým jsi nemluvil, nevymýšlej rám návštěvy. Celý text v samém *máte / jdete / stojíte* ale taky nestačí — dějiny drž ve 3. osobě a trasu občas ve *míříme*.
+Když jsi na místě nebyl, nevymýšlej rám návštěvy (*dnes ráno jsem parkoval*, *nám u pokladny nabídnou*). Servis bez falešné obsluhy: *tu koupíme nápoj a sušenky*.
+
+Celý článek ve 3. osobě bez *míříme* zní jako heslo — to byla chyba prvních draftů Házmburku. Celý článek v *máte / jdete / stojíte* taky nestačí. Celý článek v *já* je pastic, pokud návštěva nebyla.
+
+---
+
+## Opakování
+
+Stejné slovo nebo stejná konstrukce nesmí stát v sousedních odstavcích, pokud to není záměrný návrat věci (piknik u pokladny → piknik u lavic).
+
+Typické tiky z Házmburku, příště hlídat:
+
+- koupě / letopočet zakladatele ve vstupu i znovu v kapitole rodu
+- *čedič* u věže dvakrát za sebou
+- *i když na Bílou věž* u pokladny i ve Výhledech
+- *vidíme … vidíme* v jedné větě
+- *později* třikrát v jedné kapitole
+- *K věži se váže také smutný fakt*
+
+Po přepisu hlasu nebo po vsuvce z rešerše udělej tento průchod **před** hodnocením.
 
 ---
 
@@ -79,9 +99,11 @@ V jednom odstavci ať potkají tři vrstvy:
 3. mírné lidové hodnocení
 
 Používej: *parádní, náramný, hezké místo, působivý, nádherný, finišuje*
-Nepoužívej: *ohromující, dechberoucí, magický, must-see, skrytý klenot, ideální destinace*
+Nepoužívej: *ohromující, dechberoucí, magický, must-see, skrytý klenot, ideální destinace, ikonická silueta*
 
 Nejistotu znač *prý, údajně, zřejmě*. Legendu neprodávej jako fakt.
+
+Českou přezdívku preferuj před latinou (*Zámořský*, ne *Transmarinus*), pokud obě označují totéž.
 
 ---
 
@@ -101,7 +123,7 @@ Smí se objevit, když opravdu posouvají text. Druhé použití téže formule 
 
 Aspoň jedno číslo ať je kuriozita, ne jen terénní údaj.
 
-Lidská odbočka jedna, nanejvýš dvě: sňatek, dluh, odjezd, císařská návštěva. Ne rodokmen. Zmínka typu „Mácha to znal jako Hanžburek“ odbočku neskryje.
+Lidská odbočka jedna, nanejvýš dvě: sňatek, dluh, odjezd, císařská návštěva, cesta, úřad. Ne rodokmen. Zmínka typu „Mácha to znal jako Hanžburek“ odbočku neskryje. Odbočka je osud jednoho člověka v několika větách, ne tři drobné údaje vedle sebe.
 
 Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, doplnil, vysvětlil*. Ne *zdůraznil, přiznal*. Anonymního průvodce si nevymýšlej.
 
@@ -109,7 +131,7 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 
 ## Tvrdé ne
 
-- kopie věty ze vzoru
+- kopie věty ze vzoru nebo z hradního webu / tabule
 - překlep, komolené jméno, rozbitá shoda „pro autenticitu“
 - podpis Karla Maliny u nového textu, pokud to zadání nechce
 - cenník a otevírací doba jako box
@@ -120,16 +142,18 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 - jednovětý odstavec pro účinek
 - leitmotiv, poetický závěr, pomlčka místo spojky, kurzíva u etymologie
 - číslovky slovy u měr a počtů
+- vymyšlená sezona, protože skill chce „proč teď“
 
 ---
 
 ## Mini-kontrola hlasu
 
-- [ ] žádná věta ze vzoru není přepsaná
+- [ ] žádná věta ze vzoru ani z letáku není přepsaná
 - [ ] odstavce mají 4–8 vět; žádný jednovětý blok pro účinek
 - [ ] pointa stojí za souvětím (*…ale výhled náramný*), ne rozbitá na dvě věty
-- [ ] já / naše setkání jen když se to stalo; trasa občas *míříme*
+- [ ] trasa má *začínáme / míříme / vracíme se*; já / naše setkání jen když se to stalo
+- [ ] koupě, materiál věže a *i když na věž* nejsou dvakrát
 - [ ] čísla číslicemi; aspoň jedna odbočka k osudu
-- [ ] *parádní* nebo *náramný* sedí; *dechberoucí* ne
+- [ ] *parádní* nebo *náramný* sedí; *dechberoucí* a *ikonická silueta* ne
 - [ ] formule ze seznamu nejvýš jednou
 - [ ] čísla a citace jdou ověřit, nebo v textu nejsou

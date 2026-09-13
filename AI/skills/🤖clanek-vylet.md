@@ -35,7 +35,7 @@ Dva až tři odstavce. Musí stihnout:
 
 1. kde to je (kraj, řeka, podhůří, město),
 2. kdo místu dal podobu, kterou čtenář uvidí,
-3. **proč právě teď** — sezona, rekonstrukce, festival, nový okruh, červnový program.
+3. **proč právě teď** — jen když je ověřená sezona, rekonstrukce, festival, nový okruh. Nevíš-li, kdy článek vyjde, bod **vynech**. Nevymýšlej program. Neblokuj draft. Start pak jako Střekov: zeměpis + kdo dal podobu.
 
 Způsoby startu, které vzory střídají:
 
@@ -45,7 +45,7 @@ Způsoby startu, které vzory střídají:
 
 **Pořadí vrstev ve vstupu.** Když místo měnilo jméno nebo pána, drž chronologii: starší hrad / starší jméno → koupě a kdo z něj udělal rodové sídlo → přejmenování. Nekrať to do vtipného přídomku (*Jedeme na Zaječí hrad*), pokud tím zmizí, že hrad stál dřív a jmenoval se jinak. Přídomkem smíš začít až když je pod ním ta posloupnost vidět.
 
-Bod 2 není jen etymologie. Musí být jasné: co tu bylo před tím, kdo to koupil, že si z toho udělal sídlo, a jak se změnilo jméno. Původ v 13. století a sláva pod novým jménem ve 14. století nejsou jedna věc.
+Bod 2 není jen etymologie. Musí být jasné: co tu bylo před tím, kdo to koupil, že si z toho udělal sídlo, a jak se změnilo jméno. Původ v 13. století a sláva pod novým jménem ve 14. století nejsou jedna věc. Stejný letopočet koupě pak v kapitole rodu neopakuj — tam už jde o osud člověka.
 
 ### Mezititulky
 
@@ -64,9 +64,13 @@ Ne: *Lesem nahoru*, *Co hrad vydržel*, *Dolů k parkovišti*. Prostřední je r
 
 Střekov je skoro celý prostorová trasa. Opočno drží rod → sbírky → park → červen. Obojí je legitimní. Nemáchej všech pět bloků, když místo unese méně. Stejný motiv nevracej jako leitmotiv.
 
+Obec pod hradem a zaniklé podhradí jsou kontext kopce, ne druhý cíl výletu, pokud to vlákno nerozhodne jinak. Z vyhlídky jedna věta stačí.
+
 ### Závěr
 
 Poslední odstavce text otevírají ven: zahrada, výhled, kavárna, bufet u pokladny, zimní trasa, prázdniny. Nepiš pointu typu „stojí to za návštěvu“ a ne obraz typu *dvě věže vypadají jako ráno*. Pozvánka má být konkrétní místo nebo termín.
+
+Když už je posezení v kapitole vyhlídek (lavice, piknik), nech článek doznět tam. Kapitola o obci pod kopcem ať není poslední slovo, pokud jen vrací na parkoviště.
 
 Na konci: `*Text a foto: …*` až když to zadání chce. U nového textu autora nefalšuj.
 
@@ -85,15 +89,15 @@ Průvodcovské spojky jsou v pořádku, když opravdu posouvají tělo textu: *N
 
 ## Osoba, čas, oslovení
 
-Vzory přepínají osobu. Pro nové texty drž úspornější mix:
+Vzory přepínají osobu. Pro nové texty drž tento mix:
 
-- základ: vyprávění ve 3. osobě,
-- čtenář: vykání (*nahlédnete*, *můžete nechat auto*),
-- po trase občas *míříme*, *můžeme si prohlédnout*,
+- trasa: *začínáme, vydáme se, míříme, vracíme se*,
+- dějiny: 3. osoba,
+- čtenář: vykání u rady,
 - reportážní rám: *při našem setkání* jen když rozhovor existuje,
 - já: výjimečně ve vstupu, nikdy jako móda celého článku.
 
-Celý článek v druhé osobě (*máte, jdete, stojíte*) je málo. Historie v minulém čase. Historický prezéns jen na zlomek osudu (*roku 1582 náhle umírá*), ne na celou kroniku — ale ten jeden takt v historické kapitole mít.
+Celý článek v druhé osobě (*máte, jdete, stojíte*) je málo. Celý článek ve 3. osobě bez *míříme* taky. Historie v minulém čase. Historický prezéns jen na zlomek osudu (*roku 1582 náhle umírá*), ne na celou kroniku — ale ten jeden takt v historické kapitole mít.
 
 ---
 
@@ -132,15 +136,34 @@ Servis ve vzorech **není** samostatný box. Je zašitý do prózy. Ceny a otev�
 
 ---
 
+## Jak krájet hradní historii
+
+Když dostaneš text z webu památky, tabule nebo místní kroniky, **nekopíruj ho do kapitoly**. Vezmi:
+
+1. jednu lidskou odbočku — osud jednoho člověka v 4–8 větách,
+2. jednu věc, kterou je z trasy vidět,
+3. úřad nebo přezdívku jen když jdou ověřit i jinde než v tom letáku.
+
+Neber:
+
+- Dalimila, Hájka a rok 754 jako vznik hradu,
+- celý rodokmen (bratranec → Korvín → vnuk),
+- druhé městečko pod hradem jako novou kapitolu,
+- věž „funkce dosud nebyla objasněna“,
+- tituly (*číšník* vs *stolník*), které se v pramenech rozcházejí — radši obecně *vysoký královský úředník*.
+
+---
+
 ## Osnova před draftem
 
 1. titulek + varianta — věcné mezititulky, ne vyprávění
-2. vstup: kde / kdo dal podobu / proč teď — a u přejmenovaného místa i starší vrstva
+2. vstup: kde / kdo dal podobu / starší vrstva u přejmenování; „teď“ jen když existuje
 3. 4–6 mezititulků s 2–4 body
-4. které číslo-kuriozita a který lidský příběh ponesou text
+4. které ověřené číslo-kuriozita a který příběh ponesou text
 5. co je ověřené a co visí
+6. rozhodnutí k místu, která se už nemají otvírat (pokladna kde, obec je / není druhý cíl)
 
-Bez úhlu „proč teď“ a bez pojmenované odbočky nezačínej draft.
+Bez pojmenované odbočky draft nezačínej. Bez „proč teď“ draft začni zeměpisem.
 
 ---
 
@@ -158,12 +181,13 @@ Bez úhlu „proč teď“ a bez pojmenované odbočky nezačínej draft.
 ## Mini-checklist před odevzdáním draftu
 
 - [ ] titulek slibuje totéž co text
-- [ ] vstup má místo, původ podoby a důvod „teď“; u přejmenování i starší jméno a založení
+- [ ] vstup má místo a původ podoby; u přejmenování i starší jméno; „teď“ jen když existuje
 - [ ] mezititulky jsou nálepky, ne vyprávění
 - [ ] kapitoly střídají příběh a chůzi; odstavce mají 4–8 vět
+- [ ] trasa je v *míříme*, dějiny ve 3. osobě
 - [ ] servis je povídavý, ne telegraf ani holý příkaz
 - [ ] čísla číslicemi; aspoň jedno jako kuriozita
 - [ ] jedna až dvě lidské odbočky, ne rodokmen samotný
 - [ ] citace jen z reálného zdroje
-- [ ] závěr otevírá ven posezením / výhledem / termínem
+- [ ] závěr otevírá ven posezením / výhledem / termínem, ne parkovištěm
 - [ ] čeština zvlášť až po stavbě, ne součást prvního náčrtu

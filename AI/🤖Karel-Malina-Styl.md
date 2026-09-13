@@ -38,7 +38,7 @@ Typický půdorys, ne šablona na tvrdo:
 ```
 titulek (místo + rys, nebo háček z návštěvy)
   ↓
-vstup bez mezititulku: kde / kdo dal podobu / proč teď
+vstup bez mezititulku: kde / kdo dal podobu / proč teď jen když existuje
   ↓
 4–6 kapitol z bloků: rod, unikát, trasa, venek, program
   ↓
@@ -75,15 +75,15 @@ Odstavec končí hodnocením nebo praktickou poznámkou (*piknik je lepší vzí
 
 ## 4. Vypravěč
 
-Korpus střídá osoby. Pro **nové** texty drž úspornější mix, jinak vznikne pastic:
+Korpus střídá osoby. Pro **nové** texty drž tento mix:
 
-- základ: 3. osoba
-- čtenář: vykání (*nahlédnete*, *můžete nechat auto*)
-- průvodcovské *míříme*, *můžeme si prohlédnout* tam, kde se opravdu jde dál po trase
+- trasa: 1. osoba množného čísla (*začínáme, vydáme se, míříme, vracíme se*)
+- dějiny: 3. osoba
+- čtenář: vykání u rady (*nahlédnete*, *můžete nechat auto*)
 - *při našem setkání* jen když rozhovor existuje
 - já jen výjimečně ve vstupu, když návštěva byla
 
-Celý článek v samém *máte / jdete / vidíte / stojíte* je málo. Chybí třetí osoba u dějin a aspoň občas průvodcovské *míříme*. To není důvod vymýšlet ich-formu ani „naše setkání“.
+Celý článek v samém *máte / jdete / vidíte / stojíte* je málo. Celý článek ve 3. osobě bez *míříme* taky — působí jako vrstvení faktů, ne jako Karel. To není důvod vymýšlet ich-formu ani „naše setkání“ ani větu *nám u pokladny nabídnou*.
 
 Historie v minulém čase. Historický prezéns na **jeden** zlomek osudu (*roku 1582 náhle umírá*), ne na celou kroniku. Když historická kapitola běží celá v minulém čase bez jediného zlomu, chybí ten jeden takt.
 
@@ -96,7 +96,7 @@ Postoj vstřícný. Kritika památky v autorské řeči není. Když něco „na
 Rytmus je **dlouhé souvětí s výčtem → krátká pointa**. Pointa funguje, protože jí předchází hustota. Když je krátká každá věta, žádná nevyčnívá.
 
 Přípustné: *Schodů je dost, ale výhled náramný.* *O to šlo především.* *Kdo hledá, snad najde.*
-Nepřípustné: *Schodů je dost. Výhled náramný.* *Tohle musíte zažít.* *Věřte mi.* *Mlha panorama nesežene.* *Obec zjistila, že kopec není jen vyhlídka.*
+Nepřípustné: *Schodů je dost. Výhled náramný.* *Tohle musíte zažít.* *Věřte mi.* *Mlha panorama nesežene.* *Obec zjistila, že kopec není jen vyhlídka.* *Nic netrvá věčně.*
 
 To *ale* drží dvě poloviny v jednom dechu. Bez něj je to Hemingway, ne Karel.
 
@@ -108,7 +108,7 @@ Tři vrstvy v jednom odstavci:
 2. faktická — jména, letopočty, tituly
 3. lidová mírná — *parádní, náramný, hezké místo, šetřílek, finišuje*
 
-Chvála: *parádní, náramný, nádherný, hezký, působivý*. Ne *ohromující, dechberoucí, magický, must-see*.
+Chvála: *parádní, náramný, nádherný, hezký, působivý*. Ne *ohromující, dechberoucí, magický, must-see, ikonická silueta*.
 
 Nejistotu značí *prý, údajně, zřejmě, asi*. Legendu neprodávej jako fakt.
 
@@ -204,10 +204,10 @@ Maximum 100. Použij, když máš říct, jestli draft sedí k časopisu — ne 
 
 | # | Kritérium | Váha |
 |---|---|---|
-| 1 | Vstup má místo, původ podoby a důvod „teď“ | 12 |
+| 1 | Vstup má místo a původ podoby; „teď“ jen když existuje | 12 |
 | 2 | Kapitoly střídají příběh lidí a chůzi po areálu; odstavce jsou kumulativní | 15 |
 | 3 | Průvodcovské spojky tam, kde se opravdu jde dál | 10 |
-| 4 | Vykání čtenáře; já/my jen když návštěva nebo rozhovor existují | 10 |
+| 4 | Trasa v *míříme*; vykání u rady; já/setkání jen když existují | 10 |
 | 5 | Ověřená čísla **číslicemi**; aspoň jedno jako kuriozita | 10 |
 | 6 | Jedna až dvě lidské odbočky, ne holý rodokmen | 12 |
 | 7 | Hovorové odlehčení vedle odborného názvu | 8 |
@@ -216,11 +216,13 @@ Maximum 100. Použij, když máš říct, jestli draft sedí k časopisu — ne 
 | 10 | Závěr otevírá ven posezením, výhledem nebo termínem, ne obrazem | 8 |
 
 - **80–100** — sedí k časopisu
-- **60–79** — žánr ano, chybí odbočka, teď, nebo závěr
+- **60–79** — žánr ano, chybí odbočka nebo závěr
 - **40–59** — obecný turistický text
 - **pod 40** — jiný žánr
 
-Body 1, 6 a 7 odliší článek od tiskové NPÚ. Bod 4 nesmí odměňovat vymýšlené „já jsem vstupoval“. Bod 9 nesmí strhávat za chybějící citaci, když rozhovor nebyl, a nesmí odměňovat vymyšlenou větu pokladní.
+Bod 1: místo + původ podoby = plný zisk, i když „teď“ chybí, protože datum vydání neznáme. Nestrhávej za chybějící sezonu. Nevymýšlej ji kvůli bodům.
+
+Body 1, 6 a 7 odliší článek od tiskové NPÚ. Bod 4 odměňuje *míříme* na trase, ne vymýšlené *já jsem vstupoval*. Bod 9 nesmí strhávat za chybějící citaci, když rozhovor nebyl, a nesmí odměňovat vymyšlenou větu pokladní.
 
 ---
 
@@ -230,8 +232,8 @@ Draft uměl žánr (trasa + zřícenina), ale ne rukopis. Typické chyby příš
 
 1. odstavec 2–4 věty a jednověté bloky místo kumulace
 2. staccato od začátku, rozbité *Schodů je dost, ale výhled náramný.*
-3. celý text ve 2. osobě, žádné *míříme*, žádný historický prezéns na zlomu
-4. Zbyněk koupí a zmizí; Mácha jako údaj; žádný sňatek, dluh, skandál
+3. celý text ve 2. osobě **nebo** celý text ve 3. osobě bez *míříme* — obojí je málo
+4. Zbyněk koupí a zmizí; Mácha jako údaj; žádný sňatek, dluh, skandál — odbočka musí být jeden člověk v několika větách
 5. číslovky slovy, čísla jen jako terénní data
 6. leitmotiv jižního svahu, poetický závěr, pomlčky, kurzíva u *Hase*
 7. mezititulky *Lesem nahoru* / *Co hrad vydržel* / *Dolů k parkovišti*
@@ -240,10 +242,20 @@ Draft uměl žánr (trasa + zřícenina), ale ne rukopis. Typické chyby příš
 10. servis, který ignoruje místo: pokladna je u Černé věže nahoře, čekat tam hodiny na světlo nedává smysl; domek prodává nápoj a sušenky, ne oběd
 11. falešná věta „u pokladny nám poradili“ kvůli bodům 3 a 9
 
-Kapitola o sesuvech má říct příčinu (jíl pod čedičem) a průběh tří katastrof, ne pointu o vyhlídce.
+Kapitola o sesuvech má říct příčinu (jíl pod čedičem) a že dnešní ves stojí jinde. Kroniku 1882–1900 a druhý cíl výletu z obce nedělej, pokud to vlákno nezmění.
+
+### Druhá vlna (ladění po recenzi „ztratil první osobu“)
+
+12. Skill hlásil „základ 3. osoba, míříme občas“. Recenze chtěla aspoň 1. os. pl. na trase. Příště piš trasu v *začínáme / míříme* už v prvním draftu, ať se hlas nepřepisuje celý večer.
+13. „Proč teď“ není brána draftu. Datum vydání často neznáme. Bez sezony začni zeměpisem.
+14. Hradní web / tabule není kapitola. Jedna odbočka (Zbyněk: věřitel, komora, Itálie, Zámořský), jedna věta z terénu (Podhradí z vyhlídky). Léva, Hájek 754, Korvín a kostelík sv. Mikuláše do článku nepatří, pokud to zadání výslovně nechce.
+15. *Později sloužila jako vězení* musí mít *po čem*: nejprve brána a cesta, potom vězení.
+16. Po lidském přepisu draftu hned jazyková vrstva (*s vydáváme*, *thedy*, *nabidnou*, *ikonickí*). Nespoléhej, že se to chytí až v recenzi.
+17. Až po vsuvce z rešerše a po změně hlasu udělej průchod na opakovaná slova. Teprve potom hodnotit.
+18. Rozhodnutí k místu (pokladna nahoře, Klapý není druhý cíl, Žižkovi nepřičítat 1429/1431) zapiš a znovu neotvírej.
 
 ---
 
 ## 12. Jednou větou
 
-Autor jde s čtenářem po památce, dějiny vypráví přes osudy majitelů, odborné slovo odlehčí lidovým hodnocením a ověřeným číslem a na konci text otevře do zahrady, na výhled nebo k termínu.
+Autor jde s čtenářem po památce v *míříme*, dějiny vypráví přes osud jednoho člověka, odborné slovo odlehčí lidovým hodnocením a ověřeným číslem a na konci text otevře do zahrady, na výhled nebo k termínu.
