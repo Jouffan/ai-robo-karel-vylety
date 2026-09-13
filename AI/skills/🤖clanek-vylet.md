@@ -8,11 +8,11 @@ Zdroj analýzy: čtyři texty Karla Maliny. Vzory prošly jazykovou očistou (p�
 
 ## Co to je za text
 
-Žánr: **turistická reportáž z památky** s přesahem do servisu. Ne encyklopedie, ne recenze, ne slevový katalog, ne trekový deník.
+Žánr: **turistická reportáž z památky** s přesahem do servisu. Ne encyklopedie, ne recenze, ne slevový katalog, ne trekový deník, ne sloupek s poetickou pointou.
 
 Autor je návštěvník, který místem prošel a často mluvil s kastelánem nebo tiskovou. Čtenáře bere s sebou po okruhu a přitom mu vypráví, kdo tady žil.
 
-Délka vzorů: zhruba 6–10 tisíc znaků (cca 900–1600 slov). Čtyři až šest mezititulků. Podnadpisy třetí úrovně vzory nepoužívají. Odstavce jsou souvislá próza, ne odrážky a ne řada úsečných holých vět, která odrážky jen napodobuje.
+Délka vzorů: zhruba 6–10 tisíc znaků (cca 900–1600 slov). Čtyři až šest mezititulků. Podnadpisy třetí úrovně vzory nepoužívají. Odstavce jsou kumulativní próza (4–8 vět na jedno téma), ne odrážky a ne řada úsečných holých vět.
 
 Tón je vstřícný. Kritika památky se ve vzorech nevyskytuje. To neznamená reklamní nadšení — konkrétnost nahrazuje chválu.
 
@@ -49,21 +49,24 @@ Bod 2 není jen etymologie. Musí být jasné: co tu bylo před tím, kdo to kou
 
 ### Mezititulky
 
-Skládej z těchto bloků. Pořadí se smí měnit podle místa.
+Věcné nálepky toho, co v kapitole stojí. Pořadí bloků se smí měnit.
 
-| Blok | Co dělá |
-|---|---|
-| Majitelé / rod | Dějiny jako příběh lidí, ne seznam držitelů |
-| Unikát | Jedna věc, kterou jinde nemají (sgrafita, divadlo, zbrojnice, výhled) |
-| Okruh / interiéry | Procházka prostorem |
-| Park, město, návrší | Druhá půlka výletu mimo sály |
-| Aktuální program | Jen ověřené data; jinak vynechat |
+| Blok | Co dělá | Příklad nálepky |
+|---|---|---|
+| Majitelé / rod | Dějiny jako příběh lidí, ne seznam držitelů | *Zajícové z Házmburka* |
+| Unikát | Jedna věc, kterou jinde nemají | *Černá a Bílá věž* |
+| Okruh / interiéry | Procházka prostorem | *Výlet na věž* |
+| Park, město, návrší | Druhá půlka výletu mimo sály | *Na hradní terase* |
+| Aktuální program | Jen ověřené data; jinak vynechat | *Červen na zámku* |
 
-Střekov je skoro celý prostorová trasa. Opočno drží rod → sbírky → park → červen. Obojí je legitimní. Nemáchej všech pět bloků, když místo unese méně.
+Ano: *Zámecká obrazárna*, *Sbírka historických zbraní*, *Výlet na věž*.
+Ne: *Lesem nahoru*, *Co hrad vydržel*, *Dolů k parkovišti*. Prostřední je rétorická otázka převlečená za titulek.
+
+Střekov je skoro celý prostorová trasa. Opočno drží rod → sbírky → park → červen. Obojí je legitimní. Nemáchej všech pět bloků, když místo unese méně. Stejný motiv nevracej jako leitmotiv.
 
 ### Závěr
 
-Poslední odstavce text otevírají ven: zahrada, výhled, kavárna, zimní trasa, prázdniny. Nepiš pointu typu „stojí to za návštěvu“. Pozvánka má být konkrétní místo nebo termín.
+Poslední odstavce text otevírají ven: zahrada, výhled, kavárna, bufet u pokladny, zimní trasa, prázdniny. Nepiš pointu typu „stojí to za návštěvu“ a ne obraz typu *dvě věže vypadají jako ráno*. Pozvánka má být konkrétní místo nebo termín.
 
 Na konci: `*Text a foto: …*` až když to zadání chce. U nového textu autora nefalšuj.
 
@@ -76,7 +79,7 @@ Současně běží:
 - **čas** — od založení k dnešku (i restituce, je-li to k výletu potřeba),
 - **prostor** — čtenář jde s textem po trase.
 
-Průvodcovské spojky jsou v pořádku, když opravdu posouvají tělo textu: *Následuje…*, *Z sálu míříme do…*, *Prohlídka končí…* Nepoužívej je jako vatu v každém odstavci.
+Průvodcovské spojky jsou v pořádku, když opravdu posouvají tělo textu: *Následuje…*, *Z sálu míříme do…*, *Prohlídka končí…* Nepoužívej je jako vatu v každém odstavci. Bez jediné takové spojky text působí jako popis zvenku.
 
 ---
 
@@ -86,38 +89,37 @@ Vzory přepínají osobu. Pro nové texty drž úspornější mix:
 
 - základ: vyprávění ve 3. osobě,
 - čtenář: vykání (*nahlédnete*, *můžete nechat auto*),
+- po trase občas *míříme*, *můžeme si prohlédnout*,
 - reportážní rám: *při našem setkání* jen když rozhovor existuje,
 - já: výjimečně ve vstupu, nikdy jako móda celého článku.
 
-Historie v minulém čase. Historický prezéns jen na zlomek osudu (*roku 1582 náhle umírá*), ne na celou kroniku.
+Celý článek v druhé osobě (*máte, jdete, stojíte*) je málo. Historie v minulém čase. Historický prezéns jen na zlomek osudu (*roku 1582 náhle umírá*), ne na celou kroniku — ale ten jeden takt v historické kapitole mít.
 
 ---
 
 ## Věta a slovník
 
-Rytmus: střídat dlouhé souvětí s výčtem a krátkou větu s pointou. Krátká věta není slogan a není ani heslový řádek. Přípustné je *Schodů je dost, ale výhled náramný.* Nepřípustné je *Tohle musíte zažít.* Stejně nepřípustné je *Automat, zákaz vjezdu k bráně. Pěšky zbývají…*
+Rytmus: dlouhé souvětí s výčtem → krátká pointa. Přípustné je *Schodů je dost, ale výhled náramný.* Nepřípustné je *Schodů je dost. Výhled náramný.* Stejně nepřípustné je *Automat, zákaz vjezdu k bráně.*
 
-**Servis není telegraf.** Parkování, značka, převýšení, zákaz vjezdu, vzdálenost patří do souvislé věty se slovesem a vazbou. Ne do řady úsečných holých vět, které jen schovávají odrážky. Krátká věta je pointa *uvnitř* odstavce, ne způsob, jak vysypat praktické údaje.
+Věty a příklad slévání řeší `AI/skills/🤖pis-jako-karel.md`. Odstavec 4–8 vět. Pomlčku a kurzívu u etymologie nepoužívej jako ozdobu.
 
-Ano: *Výlet začíná na parkovišti u vsi: k bráně se autem nesmí, u závory je automat a dál se jde pěšky.*
-
-Ne: *Automat, zákaz vjezdu k bráně. Pěšky zbývají asi dva a půl kilometru.*
+**Servis není telegraf ani holý příkaz.** Parkování, značka, převýšení patří do povídavé věty. Ne *Přesný čas ověřte před cestou. V nepohodě věž zavírají.*
 
 Tři vrstvy slovníku, všechny tři mají být přítomné:
 
 1. památkářská (*sgrafito, arkáda, bergfrit, depozitář, obora*) — vzápětí srozumitelně,
-2. faktická — data, jména, čísla,
+2. faktická — data, jména, čísla **číslicemi**,
 3. lidová mírná — *parádní, náramný, hezké místo*, ne *ohromující, dechberoucí*.
 
-Formulky ze vzorů (*Nechybí ani…*, *Určitě zaujme…*, *Zajímavé je především…*) použij maximálně jednou za článek. Opakované působí jako kopie Maliny, ne jako nový text.
+Formulky ze vzorů (*Nechybí ani…*, *Určitě zaujme…*, *Zajímavé je především…*) použij maximálně jednou za článek.
 
 ---
 
 ## Čísla, kuriozity, citace
 
-Číslo je odměna, když něco říká: 8 000 psaníček, 175 schodů, 471 děl, 2 000 zbraní. Nevymýšlej ho. Neověřené číslo nepatří do draftu.
+Číslo je odměna, když něco říká: 8 000 psaníček, 175 schodů, 471 děl, 2 000 zbraní. Piš ho číslicemi (*25 metrů*, ne *pětadvacet metrů*). Nevymýšlej ho. Neověřené číslo nepatří do draftu.
 
-Odbočka k příběhu zlidšťuje letopočty: sňatek, dluh, císařská návštěva, restituce, skandál. Jedna až dvě odbočky na článek stačí. Rodokmen na půl strany bez scény unaví.
+Odbočka k příběhu zlidšťuje letopočty: sňatek, dluh, císařská návštěva, restituce, skandál, vazba na známý fenomén. Jedna až dvě odbočky na článek **musí být**. Bez nich je text průvodce. Rešerše odbočku hledá záměrně; když se nenašla, řekni to v osnově, nevymýšlej ji.
 
 Citace kastelána / tiskové:
 
@@ -126,19 +128,19 @@ Citace kastelána / tiskové:
 - uvozuj českými uvozovkami,
 - nemáš-li rozhovor, necituj. Anonymní „náš průvodce řekl“ si nevymýšlej.
 
-Servis (parkování, značka, počet schodů, název okruhu) ve vzorech **není** samostatný box. Je zašitý do prózy. Ceny a otevírací dobu neuváděj, pokud nejsou ověřené k datu.
+Servis ve vzorech **není** samostatný box. Je zašitý do prózy. Ceny a otevírací dobu neuváděj, pokud nejsou ověřené k datu.
 
 ---
 
 ## Osnova před draftem
 
-1. titulek + varianta
+1. titulek + varianta — věcné mezititulky, ne vyprávění
 2. vstup: kde / kdo dal podobu / proč teď — a u přejmenovaného místa i starší vrstva
 3. 4–6 mezititulků s 2–4 body
-4. které číslo a který příběh ponesou text
+4. které číslo-kuriozita a který lidský příběh ponesou text
 5. co je ověřené a co visí
 
-Bez úhlu „proč teď“ nezačínej draft.
+Bez úhlu „proč teď“ a bez pojmenované odbočky nezačínej draft.
 
 ---
 
@@ -148,7 +150,8 @@ Bez úhlu „proč teď“ nezačínej draft.
 - vymýšlený rozhovor, aby text „působil reportážně“
 - prázdný superlativ bez opory
 - anglickou korekturu českého textu
-- úsečný „AI rytmus“ (krátké holé věty za sebou místo prózy)
+- úsečný „AI rytmus“ a jednověté odstavce pro účinek
+- poetický závěr, leitmotiv, pomlčku jako tik
 
 ---
 
@@ -156,10 +159,11 @@ Bez úhlu „proč teď“ nezačínej draft.
 
 - [ ] titulek slibuje totéž co text
 - [ ] vstup má místo, původ podoby a důvod „teď“; u přejmenování i starší jméno a založení
-- [ ] kapitoly střídají příběh a chůzi po areálu
-- [ ] servis je ve větách, ne v telegrafu ani v odrážkách
-- [ ] aspoň několik ověřených čísel, žádné falešné
-- [ ] nejvýš jedna až dvě lidské odbočky, ne rodokmen samotný
+- [ ] mezititulky jsou nálepky, ne vyprávění
+- [ ] kapitoly střídají příběh a chůzi; odstavce mají 4–8 vět
+- [ ] servis je povídavý, ne telegraf ani holý příkaz
+- [ ] čísla číslicemi; aspoň jedno jako kuriozita
+- [ ] jedna až dvě lidské odbočky, ne rodokmen samotný
 - [ ] citace jen z reálného zdroje
-- [ ] závěr otevírá ven, nehodnotí sloganem
+- [ ] závěr otevírá ven posezením / výhledem / termínem
 - [ ] čeština zvlášť až po stavbě, ne součást prvního náčrtu

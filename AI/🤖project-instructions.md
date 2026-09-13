@@ -38,13 +38,13 @@ Před čtením nebo zápisem souboru s emoji v názvu nejdřív vypiš rodičovs
 ## 3. Jazyk, hlas, čtenář
 
 - Cílový jazyk článku: **spisovná čeština**, živá, čitelná, bez kalků z angličtiny.
-- Hlas: zvídavý průvodce, ne reklamní leták a ne encyklopedické heslo. Před draftem načti `AI/skills/🤖pis-jako-karel.md`.
+- Hlas: zvídavý průvodce, ne reklamní leták a ne encyklopedické heslo. Před draftem načti `AI/skills/🤖pis-jako-karel.md` a `AI/🤖Karel-Malina-Styl.md`.
 - Čtenář: dospělý zájemce o výlety a místa; očekává konkrétní informace a atmosféru.
-- Vykej, pokud zadání neurčí jinak.
-- Čísla, míry, časy a názvy míst uváděj česky a ověřeně (`15 km`, `v 9.30`, `nádraží Praha hl. n.`).
+- Vykej, pokud zadání neurčí jinak. Celý text v samém *jdete / máte / stojíte* nestačí.
+- Čísla, míry, časy a názvy míst uváděj česky, ověřeně a **číslicemi** (`15 km`, `25 m`, `v 9.30`, `nádraží Praha hl. n.`). Ne *pětadvacet metrů*, *dvaatřicet domů*.
 - Cizí názvy nechávej v původním tvaru, pokud se v češtině běžně nepřekládají; skloňuj jen tam, kde to čeština přirozeně dělá.
 
-Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destinace*.
+Nepřepisuj text do „AI stylu“: krátké úderné věty za sebou, jednověté odstavce pro účinek, univerzální nadšení, prázdné fráze typu *skrytý klenot*, *musíte zažít*, *ideální destinace*.
 
 Před osnovou výletového článku načti `AI/skills/🤖clanek-vylet.md`. Před draftem ještě `AI/skills/🤖pis-jako-karel.md`.
 
@@ -101,6 +101,7 @@ Chybí-li úhel pohledu, navrhni 2–3 a počkej. Nezačínej draftem, když zad
 
 - Ověřuj fakta aktuálními zdroji. Otevírací doby, ceny, spoje a „letos otevřeno“ se mění — označ je jako ověřené k datu, nebo je vynech.
 - Nevymýšlej historky, citace, vzdálenosti, letopočty ani „místní legendu“.
+- Záměrně hledej jednu lidskou odbočku (sňatek, dluh, odjezd, skandál, vazba na známý fenomén). Bez ní draft nemaž — řekni to v osnově.
 - Nejistotu piš jako nejistotu, ne jako jistotu.
 - Rešerši ukládej jako `📝`, ne jako hotový článek.
 - Vzory v `podklady/vzory/` slouží rytmu a stavbě, ne ke kopírování vět.
@@ -111,18 +112,18 @@ Osnova je dohoda o stavbě, ne článek. U výletového článku se drž `AI/ski
 
 - pracovní titulek + 1–2 varianty
 - perex / slib čtenáři (kde, kdo dal podobu, proč teď)
-- části v pořadí čtení, u každé 2–4 body co musí říct
-- které ověřené číslo a který příběh ponesou text
+- části v pořadí čtení, u každé 2–4 body co musí říct; mezititulky jako věcné nálepky
+- které ověřené číslo-kuriozita a který příběh ponesou text
 - otázky, které ještě visí
 
-Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou draftem“.
+Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou draftem“. Bez pojmenované odbočky draft nezačínej.
 
 ### 5.4 Draft
 
-- Než začneš psát věty, načti `AI/skills/🤖pis-jako-karel.md`.
+- Než začneš psát věty, načti `AI/skills/🤖pis-jako-karel.md` a sekci o odstavci v `AI/🤖Karel-Malina-Styl.md`.
 - Piš podle schválené osnovy. Odchylku pojmenuj.
 - Nejdřív celistvý text, teprve potom kosmetika.
-- Každá část má dělat jednu práci: zavést místo, vést trasu, dát kontext, předat praktickou informaci, uzavřít.
+- Každá část má dělat jednu práci. Odstavec má 4–8 vět na jedno téma; jednovětý blok pro účinek nedělej.
 - Konkrétno před obecnem: jedna scéna, jeden detail, jedno číslo > odstavec nálad.
 - Označ draft stavem `🟡` nebo `🔴`, ne `✅`.
 
@@ -130,8 +131,8 @@ Osnovu předlož k odsouhlasení, pokud uživatel neřekl „pokračuj rovnou dr
 
 Až po draftu. Odděluj vrstvy:
 
-1. **Stavba** — pořadí, délka částí, slib z perexu vs. text, duplicity.
-2. **Věty** — rytmus podle `AI/skills/🤖pis-jako-karel.md`, přesnost sloves, zbytečná přídavná jména.
+1. **Stavba** — pořadí, délka částí, slib z perexu vs. text, duplicity, leitmotiv, mezititulky.
+2. **Věty** — rytmus podle `AI/skills/🤖pis-jako-karel.md` (souvětí → pointa, číslice, žádné pomlčky-tiky).
 3. **Fakta** — jmenné tvary, geografické údaje, čísla, časové údaje.
 
 Při ladění zachovej hlas draftu. Nepřepisuj všechno „lépe“, pokud to uživatel nechce.
@@ -149,7 +150,7 @@ Kontroluj:
 - shodu podmětu s přísudkem
 - skloňování vlastních jmén a místních názvů
 - velká písmena u institucí a názvů
-- české uvozovky „…“, pomlčku —, nehybné mezery u jednopísmenných předložek tam, kde text půjde do sazby
+- české uvozovky „…“, pomlčku jen kde patří do sazby, nehybné mezery u jednopísmenných předložek tam, kde text půjde do sazby
 - křížení české a anglické interpunkce
 
 Našel-li se skill v `AI/skills/` pro češtinu nebo korekturu, použij ho v této fázi. Obecný anglický prose-review **není** výchozí nástroj pro tyto články.
@@ -219,6 +220,7 @@ Ještě chybí:
 - Nevytvářej soubory mimo dohodnutou rodinu prefixů.
 - Neukládej do repositáře mezigenerační skripty ani dočasné odkladiště.
 - Nekontroluj český text anglickou korekturou „na sílu“.
+- Nevymýšlej kastelána ani ich-formu, aby text „vypadal jako Karel“.
 
 ---
 
@@ -227,6 +229,7 @@ Ještě chybí:
 - [ ] text odpovídá zadání a schválené osnově
 - [ ] fakta, která šla ověřit, jsou ověřená; zbytek je označený
 - [ ] titulek a perex slibují totéž co článek
+- [ ] odstavce jsou husté, čísla číslicemi, je tu lidská odbočka
 - [ ] čeština prošla samostatným průchodem
 - [ ] praktické informace jsou použitelné, nebo vědomě nejsou součástí textu
 - [ ] název souboru má správný typ i stav
