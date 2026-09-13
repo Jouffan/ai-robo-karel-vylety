@@ -26,7 +26,9 @@ Kolem věže jsou zbytky paláce, který tvořil jádro hradu. K vnitřní stran
 
 ## Výhledy
 
-Z hradeb je vidět na všechny strany, a to i bez výstupu na cimbuří. Za zmínku ale stojí dvě vyhlídky. Západní leží za Bílou věží a otvírá České středohoří s Milešovkou, Košťálem, Kletečnou a Sedlem. Východní je pod Černou věží, tam kde stojí lavice a stoly. Odtud padá pohled do Poohří a na Českou tabuli, na pruhy polí a na Říp v rovině. Pod sebou máte Klapý a vinice. Z cimbuří se pak Černá věž ukáže jako na dlani. Jediné, co zůstane skryté, je cesta, kudy se šlo nahoru; ztrácí se v lese pod severním svahem. Kdo nechce lézt až nahoru, posedí u stolů pod Černou věží, i odtud je daleko vidět.
+Z hradeb je vidět na všechny strany, a to i bez výstupu na cimbuří. Za zmínku ale stojí dvě vyhlídky. Západní leží za Bílou věží a otvírá České středohoří s Milešovkou, Košťálem, Kletečnou a Sedlem. Východní je pod Černou věží, tam kde stojí lavice a stoly. Odtud padá pohled do Poohří a na Českou tabuli, na pruhy polí a na Říp v rovině. Pod sebou máte Klapý a vinice. Z cimbuří se pak Černá věž ukáže jako na dlani. Jediné, co zůstane skryté, je cesta, kudy se šlo nahoru; ztrácí se v lese pod severním svahem.
+
+Z Litoměřic se na tutéž siluetu díval v říjnu 1836 Karel Hynek Mácha. Hrad znal jako Hanžburek a v dopise příteli Eduardu Hindlovi psal, že mu „svatý Hanžburek kouká všemi okny až do postele, nechť ji postavím kde chci“. Pár let předtím si ho nakreslil od Klapého. Kdo nechce lézt až na cimbuří, posedí u stolů pod Černou věží, i odtud je daleko vidět.
 
 ## Klapý
 
