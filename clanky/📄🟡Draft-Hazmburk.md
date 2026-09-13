@@ -1,10 +1,10 @@
 # Výhledy z Házmburka
 
-Jedeme na Zaječí hrad. Říká se mu tak podle erbu: Zbyněk Zajíc z Valdeka ho roku 1335 koupil od krále Jana Lucemburského a staré Klapý přejmenoval po německém *Hase*, zajíci. Dvě věže na čedičovém kuželu nad Poohřím jsou od té doby značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
+Původní hrad na čedičovém kuželu nad Poohřím vznikl ve 13. století a jmenoval se Klapý. Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka. Roku 1335 ho koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho po sobě — ale německy, podle zajíce v erbu (*Hase*). Dvě věže nad vsí jsou od té doby značkou kraje. V září, kdy je vzduch čistý a pole po žních otevřená, je to vidět už zdálky.
 
 ## Nad Klapým
 
-Hrad sedí na vrchu vysokém 418 metrů, obec Klapý leží pod ním. Výlet začíná na parkovišti pod hradem, u vsi. Automat, zákaz vjezdu k bráně. Pěšky zbývají asi dva a půl kilometru. Čeká vás stoupání zhruba sto čtyřicet metrů.
+Hrad sedí na vrchu vysokém 418 metrů a obec Klapý leží přímo pod ním. Výlet začíná na parkovišti u vsi: k bráně se autem nesmí, u závory je automat a dál se jde pěšky. K hradu zbývají asi dva a půl kilometru a převýšení zhruba sto čtyřicet metrů.
 
 Z návsi i z parkoviště máte věže pořád před sebou. Nejdete za značkou naslepo. Jižní svah pod věžemi je kamenitý a holý. Tudy značka nevede.
 
