@@ -24,7 +24,7 @@ Z dolního hradu míříme vzhůru do jádra. Tam stojí hranolová Bílá věž
 
 ## Výhledy
 
-Z hradeb je vidět na všechny strany, a to i bez výstupu na cimbuří. Za zmínku ale stojí dvě vyhlídky. Západní leží za Bílou věží a otvírá České středohoří s Milešovkou, Koštálem, Kletečnou a Sedlem. Východní je pod Černou věží, tam kde stojí lavice a stoly. Odtud padá pohled do Poohří a na Českou tabuli, na pruhy polí a na Říp v rovině. Pod sebou máte Klapý a vinice. Z cimbuří Bílé věže k tomu přibude Černá věž jako na dlani. Schovaná zůstává jen cesta, kudy se šlo nahoru, ta se ztrácí v lese pod severním svahem. Kdo nechce lézt až nahoru, posedí u stolů pod Černou věží, i odtud je daleko vidět.
+Z hradeb je vidět na všechny strany, a to i bez výstupu na cimbuří. Za zmínku ale stojí dvě vyhlídky. Západní leží za Bílou věží a otvírá České středohoří s Milešovkou, Košťálem, Kletečnou a Sedlem. Východní je pod Černou věží, tam kde stojí lavice a stoly. Odtud padá pohled do Poohří a na Českou tabuli, na pruhy polí a na Říp v rovině. Pod sebou máte Klapý a vinice. Z cimbuří Bílé věže k tomu přibude Černá věž jako na dlani. Schovaná zůstává jen cesta, kudy se šlo nahoru, ta se ztrácí v lese pod severním svahem. Kdo nechce lézt až nahoru, posedí u stolů pod Černou věží, i odtud je daleko vidět.
 
 Zpátky se jde stejným způsobem, červenou do lesa a žlutou kolem kopce. Jižní svah pod věžemi je kamenitý a holý, protože kopec je vypreparovaná čedičová žíla, nefelinický bazanit na křídových slínovcích a jílech. Temeno s hradem drží čedič. Když deště podmáčí jíl pod sutí, masa kamene a hlíny se sjíždí pomalu, ale nezadržitelně, s rachotem, který bylo slyšet i vidět pouhým okem. Sjíždělo se to, co stálo ve svahu na jílu.
 
