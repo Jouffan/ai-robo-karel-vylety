@@ -69,6 +69,8 @@ Jednovětý odstavec pro dramatický účinek Karel skoro nedělá. Dva úsečn�
 
 Praktický test: v Litomyšli má odstavec o Vratislavovi II. dvanáct vět a jedinou myšlenkovou linku (dluhy). Když má nejdelší odstavec v draftu šest vět a i ten je rozsekaný na krátké celky, odstavec je málo hustý.
 
+Odstavec končí hodnocením nebo praktickou poznámkou (*piknik je lepší vzít s sebou*), ne aforismem (*obec zjistila, že kopec není jen vyhlídka*). Spojení dvou úsečných vět čárkou aforismus neschová.
+
 ---
 
 ## 4. Vypravěč
@@ -94,9 +96,11 @@ Postoj vstřícný. Kritika památky v autorské řeči není. Když něco „na
 Rytmus je **dlouhé souvětí s výčtem → krátká pointa**. Pointa funguje, protože jí předchází hustota. Když je krátká každá věta, žádná nevyčnívá.
 
 Přípustné: *Schodů je dost, ale výhled náramný.* *O to šlo především.* *Kdo hledá, snad najde.*
-Nepřípustné: *Schodů je dost. Výhled náramný.* *Tohle musíte zažít.* *Věřte mi.*
+Nepřípustné: *Schodů je dost. Výhled náramný.* *Tohle musíte zažít.* *Věřte mi.* *Mlha panorama nesežene.* *Obec zjistila, že kopec není jen vyhlídka.*
 
 To *ale* drží dvě poloviny v jednom dechu. Bez něj je to Hemingway, ne Karel.
+
+Vymyšlený idiom a aforismus nejsou Karlovy pointy. Pointa je praktická nebo hodnotící věta po hustotě, ne nové rčení.
 
 Tři vrstvy v jednom odstavci:
 
@@ -135,6 +139,8 @@ Servis: *Pokud se vydáte…* / *Pokud vás zajímá…* / *A ti z vás, kteří
 
 Servis Karel podává povídavě (*U pokladny vás „vyzbrojí“ tištěným letáčkem.*), ne holým imperativem (*Přesný čas ověřte před cestou.*).
 
+Servis musí sedět k topografii místa. Pokladna na zřícenině bývá až nahoře u věže. Nevymýšlej radu „nechte si výstup na pozdní odpoledne“, když je čtenář už u pokladny. Nevydávej domek s nápojem a sušenkami za restauraci. Citaci pokladní si kvůli bodům 3 a 9 taky nevymýšlej.
+
 ---
 
 ## 7. Čísla, příběhy, citace
@@ -154,7 +160,7 @@ Citace kastelána / tiskové:
 - jen skutečná, se jménem a funkcí
 - smí být dlouhá, za ní uvozovací věta (*poznamenal, doplnil, vysvětlil*)
 - ne *zdůraznil, přiznal, tvrdí*
-- nemáš-li rozhovor, necituj a nevymýšlej „našeho průvodce“
+- nemáš-li rozhovor, necituj a nevymýšlej „našeho průvodce“ ani větu „u pokladny nám poradili“
 
 ---
 
@@ -168,10 +174,12 @@ Citace kastelána / tiskové:
 - čistá kronika bez lidí a bez chůze po areálu
 - leitmotiv (stejný svah, stejná značka čtyřikrát)
 - poetická pointa místo posezení nebo termínu (*dvě věže vypadají jako ráno*)
+- aforismus a vymyšlený idiom (*mlha panorama nesežene*)
 - pomlčka místo čárky a spojky (*po sobě — ale německy*)
 - kurzíva u etymologie (*Hase*)
 - číslovky slovy u měr a počtů
 - jednověté odstavce pro účinek
+- rada, která ignoruje, kde na trase věc stojí
 
 ---
 
@@ -212,7 +220,7 @@ Maximum 100. Použij, když máš říct, jestli draft sedí k časopisu — ne 
 - **40–59** — obecný turistický text
 - **pod 40** — jiný žánr
 
-Body 1, 6 a 7 odliší článek od tiskové NPÚ. Bod 4 nesmí odměňovat vymýšlené „já jsem vstupoval“. Bod 9 nesmí strhávat za chybějící citaci, když rozhovor nebyl.
+Body 1, 6 a 7 odliší článek od tiskové NPÚ. Bod 4 nesmí odměňovat vymýšlené „já jsem vstupoval“. Bod 9 nesmí strhávat za chybějící citaci, když rozhovor nebyl, a nesmí odměňovat vymyšlenou větu pokladní.
 
 ---
 
@@ -227,6 +235,12 @@ Draft uměl žánr (trasa + zřícenina), ale ne rukopis. Typické chyby příš
 5. číslovky slovy, čísla jen jako terénní data
 6. leitmotiv jižního svahu, poetický závěr, pomlčky, kurzíva u *Hase*
 7. mezititulky *Lesem nahoru* / *Co hrad vydržel* / *Dolů k parkovišti*
+8. aforismus místo výkladu (*Klapý není jen parkoviště. Obec zjistila, že kopec není jen vyhlídka.*)
+9. vymyšlený idiom (*mlha panorama nesežene*)
+10. servis, který ignoruje místo: pokladna je u Černé věže nahoře, čekat tam hodiny na světlo nedává smysl; domek prodává nápoj a sušenky, ne oběd
+11. falešná věta „u pokladny nám poradili“ kvůli bodům 3 a 9
+
+Kapitola o sesuvech má říct příčinu (jíl pod čedičem) a průběh tří katastrof, ne pointu o vyhlídce.
 
 ---
 
