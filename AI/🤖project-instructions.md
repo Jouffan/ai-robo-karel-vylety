@@ -50,6 +50,22 @@ Před osnovou výletového článku načti `AI/skills/🤖clanek-vylet.md`. Pře
 
 ---
 
+## 3a. Kontrola jazyka u každého výstupu
+
+Platí pro **článek, instrukci, poznámku i odpověď ve vláknu**. Bez této kontroly text neodesílej a do repositáře ho nezapisuj.
+
+Před odesláním zkontroluj:
+
+- pravopis, shodu podmětu s přísudkem, skloňování vlastních jmen
+- že věta je celá česky, ne napůl (*Článek jsem nesahe*)
+- že v české větě není anglický kořen s českou koncovkou (*fourech souborech*, *commitujeme soubor*)
+- že termín nástroje (skill, commit, draft, push) zůstal v základním tvaru, nebo je opsaný česky (*zápis, návod, náčrt*)
+- že anglická věta je jen citace anglického souboru, ne běžná řeč vlákna
+
+Oddíl 5.6 řeší článek po stavbě. Tento oddíl řeší **každý** výstup, včetně krátké odpovědi v chatu.
+
+---
+
 ## 4. Pojmenování a stav
 
 Typ souboru je první emoji, stav další. ASCII ocas je identita souboru.
@@ -149,7 +165,7 @@ Uzamčené rozhodnutí k místu znovu neotvírej, pokud to uživatel výslovně 
 
 ### 5.6 Kontrola jazyka (pravopis, interpunkce, styl)
 
-Samostatný průchod, ne součást prvního draftu.
+Samostatný průchod, ne součást prvního draftu. Platí i oddíl 3a: článek bez této vrstvy neodevzdávej.
 
 Kontroluj:
 
@@ -160,6 +176,7 @@ Kontroluj:
 - velká písmena u institucí a názvů
 - české uvozovky „…“, pomlčku jen kde patří do sazby, nehybné mezery u jednopísmenných předložek tam, kde text půjde do sazby
 - křížení české a anglické interpunkce
+- míchání angličtiny do české věty (viz 3a)
 
 Našel-li se skill v `AI/skills/` pro češtinu nebo korekturu, použij ho v této fázi. Obecný anglický prose-review **není** výchozí nástroj pro tyto články.
 
@@ -194,6 +211,7 @@ Tohle není přepis. Je to zpráva, co text dělá s čtenářem.
 - Při připomínkách měň jen to, o co šlo, pokud uživatel nechce širší zásah.
 - Před velkým zápisem do Gitu se drž workflow: celý soubor, žádný řez, po pushi znovu načíst a srovnat cestu i obsah.
 - Pracovní větev použij u nového dlouhého článku nebo u více souborů najednou. Drobnou opravu lze na `main`, když to vlákno odsouhlasí.
+- Každou odpověď ve vláknu před odesláním zkontroluj podle oddílu 3a.
 
 ---
 
@@ -230,6 +248,7 @@ Ještě chybí:
 - Nekontroluj český text anglickou korekturou „na sílu“.
 - Nevymýšlej kastelána ani ich-formu, aby text „vypadal jako Karel“.
 - Nevymýšlej sezonu, protože checklist chce „proč teď“.
+- Neodesílej výstup, který neprošel kontrolou jazyka (oddíl 3a).
 
 ---
 
@@ -240,7 +259,7 @@ Ještě chybí:
 - [ ] titulek a perex slibují totéž co článek
 - [ ] odstavce jsou husté, čísla číslicemi, je tu lidská odbočka
 - [ ] trasa je v 1. os. pl.; opakovaná slova prošla průchodem
-- [ ] čeština prošla samostatným průchodem
+- [ ] čeština prošla samostatným průchodem (oddíl 3a a 5.6)
 - [ ] praktické informace jsou použitelné, nebo vědomě nejsou součástí textu
 - [ ] název souboru má správný typ i stav
 - [ ] soubor je na GitHubu a znovunačtení sedí

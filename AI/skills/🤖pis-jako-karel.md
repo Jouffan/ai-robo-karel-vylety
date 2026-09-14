@@ -16,7 +16,7 @@ Odstavec má 4–8 vět na **jedno** téma. Uvnitř vedlejší věty, výčet, v
 
 Ne: dva úsečné odstavce za sebou pro účinek. Ne: odstavec o dvou větách, když šlo slít čtyři informace.
 
-Test před commitem: když tři a více vět po sobě přidávají po jednom faktu a žádná nejde po trase ani nehodnotí, slít je. Příklad špatně: výška. jméno. vězení. pavlač. 1863. 1974.
+Test před zápisem: když tři a více vět po sobě přidávají po jednom faktu a žádná nejde po trase ani nehodnotí, slít je. Příklad špatně: výška. jméno. vězení. pavlač. 1863. 1974.
 
 ---
 
@@ -42,7 +42,7 @@ Souvislá próza. Žádné odrážky, boxy, tabulky. Mezititulek je věcný, 2�
 
 Úsečné holé věty za sebou nejsou próza. Servis zapoj slovesem a souvětím, povídavě: *U pokladny vás „vyzbrojí“ tištěným letáčkem.* Ne holým imperativem: *Přesný čas ověřte před cestou.*
 
-Pomlčku nepoužívej tam, kde stačí čárka a spojka. Kurzívu u etymologie (*Hase*) vynech; německé slovo může zůstat v uvozovkách nebo bez vyznačení.
+Pomlčku nepoužívej tam, kde stačí čárka a spojka. Kurzívu u etymologie (*Hase*) vynech; německé slovo může zůstat v uvozovkách nebo bez vyznačení.
 
 ### Příklad slévání (technika, ne citát do článku)
 
@@ -69,7 +69,7 @@ Tento přepis do žádného článku nevkládej. Ukazuje jen: slít informace, d
 
 Když jsi na místě nebyl, nevymýšlej rám návštěvy (*dnes ráno jsem parkoval*, *nám u pokladny nabídnou*). Servis bez falešné obsluhy: *tu koupíme nápoj a sušenky*.
 
-Celý článek ve 3. osobě bez *míříme* zní jako heslo — to byla chyba prvních draftů Házmburku. Celý článek v *máte / jdete / stojíte* taky nestačí. Celý článek v *já* je pastic, pokud návštěva nebyla.
+Celý článek ve 3. osobě bez *míříme* zní jako heslo — to byla chyba prvních náčrtů Házmburku. Celý článek v *máte / jdete / stojíte* taky nestačí. Celý článek v *já* je napodobenina, pokud návštěva nebyla.
 
 ---
 
@@ -142,7 +142,7 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 - jednovětý odstavec pro účinek
 - leitmotiv, poetický závěr, pomlčka místo spojky, kurzíva u etymologie
 - číslovky slovy u měr a počtů
-- vymyšlená sezona, protože skill chce „proč teď“
+- vymyšlená sezona, protože návod chce „proč teď“
 
 ---
 
@@ -157,3 +157,4 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 - [ ] *parádní* nebo *náramný* sedí; *dechberoucí* a *ikonická silueta* ne
 - [ ] formule ze seznamu nejvýš jednou
 - [ ] čísla a citace jdou ověřit, nebo v textu nejsou
+- [ ] čeština výstupu je celá, bez anglického kořene v české koncovce

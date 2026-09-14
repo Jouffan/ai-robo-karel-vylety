@@ -3,6 +3,16 @@
 **Výlety současnosti** is a magazine in czech language, we are going to semiautomate production of some articles using various LLMs.
 The articles should be written in quality czech language. Most of communication in chat threads will be in czech too. 
 
+## Jazyk výstupů — povinné
+Každá odpověď ve vláknu i každý zápis do repositáře musí před odesláním projít kontrolou češtiny.
+
+- spisovná čeština, bez překlepů a bez rozbité shody
+- žádné anglické slovo v české koncovce (*fourech souborech*)
+- žádný poloviční překlad (*Článek jsem nesahe*)
+- termíny nástrojů (skill, commit, draft) neskláněj anglicky; buď je nech v základním tvaru, nebo řekni česky
+
+Podrobnosti: `AI\🤖project-instructions.md`, oddíl o jazyku výstupů.
+
 ## Instructions
 ### Peristance and GIT
 **Project data and instructions location:** GitHub repo `https://github.com/Jouffan/ai-robo-karel-vylety.git` (branch `main`)
