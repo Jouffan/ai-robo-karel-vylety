@@ -1,8 +1,8 @@
 # Výhledy ze Zaječího hradu
 
-Už z dálky poznáme na strmém kopci siluetu zříceniny se dvěma věžemi. Stojí na temeni čedičového suku, 418 metrů nad mořem. Hrad se od poloviny 13. století jmenoval Klapý. Založili ho Lichtenburkové.
+Nad obcí Klapý v Českém středohoří se zvedá čedičový suk a na něm zřícenina se dvěma věžemi. Hrad tady založili Lichtenburkové v polovině 13. století a jmenoval se Klapý. Temeno leží 418 metrů nad mořem.
 
-Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka. Roku 1335 ho koupil od krále Jana Lucemburského, udělal z něj své rodové sídlo a přejmenoval ho podle erbu. Zajíc se německy řekne Hase, a z hradu se tak stal Hasenburg. O pět století později ho Karel Hynek Mácha znal jako Hanžburek.
+Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského a udělal z něj své rodové sídlo. Přejmenoval ho podle erbu: zajíc se německy řekne Hase, a z hradu se tak stal Hasenburg. O pět století později ho Karel Hynek Mácha znal jako Hanžburek.
 
 ## Vzhůru na hrad
 Výlet začínáme na parkovišti u obce Klapý, která leží přímo pod kopcem. Nahoru k bráně se autem nedostaneme, takže dál jdeme pěšky. K hradu nás čeká asi 2,5 kilometru a cestou nastoupáme zhruba 140 metrů. Od parkoviště se vydáváme po žluté turistické značce okolo kopce lesem a později pokračujeme po červené, která nás dovede až k bráně. Stoupání není dlouhé ani zvlášť náročné, ale jde se kamenitou lesní cestou. S kočárkem je to trápení, s dětmi v nosítku to půjde lépe.
