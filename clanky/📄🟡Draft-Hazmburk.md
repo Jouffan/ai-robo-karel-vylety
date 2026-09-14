@@ -1,6 +1,6 @@
 # Výhledy ze Zaječího hradu
 
-Nad obcí Klapý v Českém středohoří se zvedá čedičový suk a na něm zřícenina se dvěma věžemi. Hrad tady založili Lichtenburkové v polovině 13. století a jmenoval se Klapý. Temeno leží 418 metrů nad mořem.
+Nad obcí Klapý v Českém středohoří se zvedá čedičový suk do výšky 418 metrů nad mořem a na něm stojí zřícenina se dvěma věžemi. Hrad tady založili Lichtenburkové v polovině 13. století a jmenoval se Klapý.
 
 Pod jménem Házmburk se proslavil až díky Zbyňkovi Zajíci z Valdeka, který ho roku 1335 koupil od krále Jana Lucemburského a udělal z něj své rodové sídlo. Přejmenoval ho podle erbu: zajíc se německy řekne Hase, a z hradu se tak stal Hasenburg. O pět století později ho Karel Hynek Mácha znal jako Hanžburek.
 
