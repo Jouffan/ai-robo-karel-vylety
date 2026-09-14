@@ -85,6 +85,7 @@ Typické tiky z Házmburku, příště hlídat:
 - *vidíme … vidíme* v jedné větě
 - *později* třikrát v jedné kapitole
 - *K věži se váže také smutný fakt*
+- stejné toponymum ve třech významech vedle sebe (*obec Klapý, vrch Klapý, hrad Klapý*)
 
 Po přepisu hlasu nebo po vsuvce z rešerše udělej tento průchod **před** hodnocením.
 
@@ -153,6 +154,7 @@ Citace jen ze skutečného zdroje. Uvozovací věta za citací: *poznamenal, dop
 - [ ] pointa stojí za souvětím (*…ale výhled náramný*), ne rozbitá na dvě věty
 - [ ] trasa má *začínáme / míříme / vracíme se*; já / naše setkání jen když se to stalo
 - [ ] koupě, materiál věže a *i když na věž* nejsou dvakrát
+- [ ] ve vstupu není *Klapý, Klapý, Klapý* ve třech významech
 - [ ] čísla číslicemi; aspoň jedna odbočka k osudu
 - [ ] *parádní* nebo *náramný* sedí; *dechberoucí* a *ikonická silueta* ne
 - [ ] formule ze seznamu nejvýš jednou

@@ -47,6 +47,12 @@ Způsoby startu, které vzory střídají:
 
 Bod 2 není jen etymologie. Musí být jasné: co tu bylo před tím, kdo to koupil, že si z toho udělal sídlo, a jak se změnilo jméno. Původ v 13. století a sláva pod novým jménem ve 14. století nejsou jedna věc. Stejný letopočet koupě pak v kapitole rodu neopakuj — tam už jde o osud člověka.
 
+**Vstup nesmí chrlit údaje.** První odstavec je krajina: kde to stojí a co je vidět. Druhý je jméno a kdo ho dal. Výška i letopočet patří do souvětí, ne jako další holá věta (*Temeno leží 418 metrů nad mořem.*).
+
+**Stejné místní jméno.** Ves, kopec a starý hrad se často jmenují stejně. Ve vstupu použij jméno jednou na ves. Kopec opiš tvarem (*suk, vrch, skála*). Staré jméno hradu řekni jednou, ideálně odkazem na ves (*jmenoval se tehdy stejně jako ves pod kopcem*). Ne *obec Klapý / vrch Klapý / hrad Klapý* v jednom odstavci.
+
+**Kde to leží.** Ověř, jestli je místo v masivu, na okraji, nebo solitér před ním. Turistický web často napíše *v Českém středohoří* i o kopci odděleném od hřebene. U Házmburku sedí *na jižním okraji* a *osamělý suk*: obecní web má rovinu Ohře a kužely v pozadí, rozhlas solitér oddělený od masivu.
+
 ### Mezititulky
 
 Věcné nálepky toho, co v kapitole stojí. Pořadí bloků se smí měnit.
@@ -182,6 +188,8 @@ Bez pojmenované odbočky draft nezačínej. Bez „proč teď“ draft začni z
 
 - [ ] titulek slibuje totéž co text
 - [ ] vstup má místo a původ podoby; u přejmenování i starší jméno; „teď“ jen když existuje
+- [ ] ve vstupu stejné toponymum nebeží ve třech významech (ves / kopec / hrad)
+- [ ] krajinné zařazení je ověřené (v masivu / na okraji / solitér)
 - [ ] mezititulky jsou nálepky, ne vyprávění
 - [ ] kapitoly střídají příběh a chůzi; odstavce mají 4–8 vět
 - [ ] trasa je v *míříme*, dějiny ve 3. osobě
