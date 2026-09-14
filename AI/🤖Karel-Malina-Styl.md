@@ -254,6 +254,13 @@ Kapitola o sesuvech má říct příčinu (jíl pod čedičem) a že dnešní ve
 17. Až po vsuvce z rešerše a po změně hlasu udělej průchod na opakovaná slova. Teprve potom hodnotit.
 18. Rozhodnutí k místu (pokladna nahoře, Klapý není druhý cíl, Žižkovi nepřičítat 1429/1431) zapiš a znovu neotvírej.
 
+### Třetí vlna (vstup po recenzi „chrlí data“)
+
+19. První odstavec je krajina, druhý jméno. Výška i letopočet patří do souvětí, ne jako další holá věta.
+20. Stejné toponymum ve třech významech (*obec Klapý / vrch Klapý / hrad Klapý*) ve vstupu nesmí. Ves pojmenuj, kopec opiš (*suk*), staré jméno hradu řekni jednou.
+21. Krajinné zařazení ověř. *V Českém středohoří* není totéž co *na jižním okraji* nebo *solitér před masivem*. Turistický web to často slévá.
+22. Start *Už z dálky poznáme* Karel ve vzorech nemá. První věta má být místo v krajině, jako Střekov v labském údolí.
+
 ---
 
 ## 12. Jednou větou
