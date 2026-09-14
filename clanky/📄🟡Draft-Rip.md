@@ -1,4 +1,4 @@
-# Říp bez rozhledu
+# Výhledy z Řípu
 
 Z polabské roviny jižně od Roudnice nad Labem se zvedá osamělý kopec do výšky 461 metrů. Není to České středohoří, jen suk před ním, a přece ho z dálky poznáme dřív než kteroukoli sousední ves. Podle pověsti, kterou na začátku 12. století zapsal Kosmas, sem vystoupil praotec Čech, přehlédl zemi a rozhodl se tu zůstat. Z palouku u rotundy to dnes neuděláme, protože temeno porostl les.
 
